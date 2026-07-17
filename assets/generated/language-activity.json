@@ -1,0 +1,12 @@
+{
+  "user": "maxgodoydev-dotcom",
+  "generated_at": "2026-06-25T08:37:24.363315+00:00",
+  "metric": "github_linguist_bytes",
+  "repositories_analyzed": 0,
+  "languages": [],
+  "notes": [
+    "O repositório do perfil, forks e repositórios arquivados são desconsiderados.",
+    "Os percentuais usam os bytes retornados pela API de linguagens do GitHub.",
+    "A métrica representa composição dos projetos, não proficiência."
+  ]
+}

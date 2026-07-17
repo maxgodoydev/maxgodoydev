@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="290" viewBox="0 0 1280 290">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="150%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity=".22"/>
+    </filter>
+    <style>text{font-family:Arial,Helvetica,sans-serif}</style>
+  </defs>
+
+  <rect width="1280" height="290" rx="18" fill="#0E1110"/>
+  <text x="36" y="42" fill="#F1ECE2" font-size="20" font-weight="800">CADERNO DE TRABALHO</text>
+  <text x="1244" y="42" text-anchor="end" fill="#AAA59A" font-size="12">como eu penso, organizo e entrego</text>
+  <path d="M36 58 H1244" stroke="#343A35" stroke-width="1"/>
+
+  
+        <g transform="translate(34 86) rotate(-1.8 102 72)">
+          <g>
+            <animateTransform attributeName="transform" type="translate"
+              values="0 0;0 -5;0 0" dur="6.5s" begin="0s"
+              repeatCount="indefinite"/>
+            <rect width="204" height="146" rx="6" fill="#171B18" stroke="#343A35" filter="url(#shadow)"/>
+            <line x1="18" y1="18" x2="186" y2="18" stroke="#B35C3D" stroke-width="4"/>
+            <text x="18" y="48" fill="#AAA59A" font-size="11" font-weight="700" letter-spacing="1.5">01</text>
+            <g transform="translate(142 31)" fill="none" stroke="#B35C3D" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M8 18h20M18 8v20"/>
+            </g>
+            <text x="18" y="86" fill="#F1ECE2" font-size="18" font-weight="800">ANÁLISE</text>
+            <text x="18" y="112" fill="#AAA59A" font-size="12">ler contexto antes de decidir</text>
+            <circle cx="184" cy="126" r="4" fill="#B35C3D">
+              <animate attributeName="opacity" values=".35;1;.35" dur="3.4s" begin="0s" repeatCount="indefinite"/>
+            </circle>
+          </g>
+        </g>
+        <g transform="translate(278 86) rotate(1.4 102 72)">
+          <g>
+            <animateTransform attributeName="transform" type="translate"
+              values="0 0;0 -5;0 0" dur="6.5s" begin="0.4s"
+              repeatCount="indefinite"/>
+            <rect width="204" height="146" rx="6" fill="#171B18" stroke="#343A35" filter="url(#shadow)"/>
+            <line x1="18" y1="18" x2="186" y2="18" stroke="#C7A24A" stroke-width="4"/>
+            <text x="18" y="48" fill="#AAA59A" font-size="11" font-weight="700" letter-spacing="1.5">02</text>
+            <g transform="translate(142 31)" fill="none" stroke="#C7A24A" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M7 24h8l5-7 6 14 5-7h8"/>
+            </g>
+            <text x="18" y="86" fill="#F1ECE2" font-size="18" font-weight="800">PROCESSOS</text>
+            <text x="18" y="112" fill="#AAA59A" font-size="12">enxergar fluxo e dependência</text>
+            <circle cx="184" cy="126" r="4" fill="#C7A24A">
+              <animate attributeName="opacity" values=".35;1;.35" dur="3.4s" begin="0.4s" repeatCount="indefinite"/>
+            </circle>
+          </g>
+        </g>
+        <g transform="translate(522 86) rotate(-1.2 102 72)">
+          <g>
+            <animateTransform attributeName="transform" type="translate"
+              values="0 0;0 -5;0 0" dur="6.5s" begin="0.8s"
+              repeatCount="indefinite"/>
+            <rect width="204" height="146" rx="6" fill="#171B18" stroke="#343A35" filter="url(#shadow)"/>
+            <line x1="18" y1="18" x2="186" y2="18" stroke="#7D8B72" stroke-width="4"/>
+            <text x="18" y="48" fill="#AAA59A" font-size="11" font-weight="700" letter-spacing="1.5">03</text>
+            <g transform="translate(142 31)" fill="none" stroke="#7D8B72" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M10 8h22v28H10zM15 15h12M15 22h12M15 29h8"/>
+            </g>
+            <text x="18" y="86" fill="#F1ECE2" font-size="18" font-weight="800">DOCUMENTAÇÃO</text>
+            <text x="18" y="112" fill="#AAA59A" font-size="12">organizar informação e decisão</text>
+            <circle cx="184" cy="126" r="4" fill="#7D8B72">
+              <animate attributeName="opacity" values=".35;1;.35" dur="3.4s" begin="0.8s" repeatCount="indefinite"/>
+            </circle>
+          </g>
+        </g>
+        <g transform="translate(766 86) rotate(1.7 102 72)">
+          <g>
+            <animateTransform attributeName="transform" type="translate"
+              values="0 0;0 -5;0 0" dur="6.5s" begin="1.2s"
+              repeatCount="indefinite"/>
+            <rect width="204" height="146" rx="6" fill="#171B18" stroke="#343A35" filter="url(#shadow)"/>
+            <line x1="18" y1="18" x2="186" y2="18" stroke="#6F7B83" stroke-width="4"/>
+            <text x="18" y="48" fill="#AAA59A" font-size="11" font-weight="700" letter-spacing="1.5">04</text>
+            <g transform="translate(142 31)" fill="none" stroke="#6F7B83" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M9 30l8-8 6 6 12-15M29 13h6v6"/>
+            </g>
+            <text x="18" y="86" fill="#F1ECE2" font-size="18" font-weight="800">EXECUÇÃO</text>
+            <text x="18" y="112" fill="#AAA59A" font-size="12">dividir, acompanhar e entregar</text>
+            <circle cx="184" cy="126" r="4" fill="#6F7B83">
+              <animate attributeName="opacity" values=".35;1;.35" dur="3.4s" begin="1.2s" repeatCount="indefinite"/>
+            </circle>
+          </g>
+        </g>
+        <g transform="translate(1010 86) rotate(-1.4 102 72)">
+          <g>
+            <animateTransform attributeName="transform" type="translate"
+              values="0 0;0 -5;0 0" dur="6.5s" begin="1.6s"
+              repeatCount="indefinite"/>
+            <rect width="204" height="146" rx="6" fill="#171B18" stroke="#343A35" filter="url(#shadow)"/>
+            <line x1="18" y1="18" x2="186" y2="18" stroke="#7C4653" stroke-width="4"/>
+            <text x="18" y="48" fill="#AAA59A" font-size="11" font-weight="700" letter-spacing="1.5">05</text>
+            <g transform="translate(142 31)" fill="none" stroke="#7C4653" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M8 31l8-8 6 5 13-16M29 12h7v7"/>
+            </g>
+            <text x="18" y="86" fill="#F1ECE2" font-size="18" font-weight="800">MELHORIA</text>
+            <text x="18" y="112" fill="#AAA59A" font-size="12">transformar tecnologia em valor</text>
+            <circle cx="184" cy="126" r="4" fill="#7C4653">
+              <animate attributeName="opacity" values=".35;1;.35" dur="3.4s" begin="1.6s" repeatCount="indefinite"/>
+            </circle>
+          </g>
+        </g>
+
+  <rect x="1" y="1" width="1278" height="288" rx="17" fill="none" stroke="#343A35"/>
+</svg>

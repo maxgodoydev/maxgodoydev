@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="500" viewBox="0 0 1280 500" role="img" aria-labelledby="title desc">
+<title id="title">Max Godoy — Dados, Analytics e BI, Automação de Processos</title>
+<desc id="desc">Cabeçalho de perfil com painel de dados: KPIs, gráfico de barras, gráfico de rosca e pipeline de dados.</desc>
+<defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070A08"/>
+      <stop offset="100%" stop-color="#0B0F0C"/>
+    </linearGradient>
+    <linearGradient id="nameGold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E9D9B8"/>
+      <stop offset="50%" stop-color="#F0C96A"/>
+      <stop offset="100%" stop-color="#CCB587"/>
+    </linearGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#18201A" stroke-width="1" opacity=".28"/>
+    </pattern>
+    <filter id="softShadow" x="-30%" y="-30%" width="180%" height="190%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000000" flood-opacity=".22"/>
+    </filter>
+    <filter id="cardShadow" x="-30%" y="-30%" width="180%" height="190%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity=".22"/>
+    </filter>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      text{font-family:Arial,Helvetica,sans-serif}
+      .badgePulse{animation:badge 2.6s ease-in-out infinite}
+      @keyframes badge{0%,100%{opacity:.45}50%{opacity:1}}
+      .barGrow{transform-box:fill-box;transform-origin:bottom;animation:grow 2.4s ease-out infinite alternate}
+      @keyframes grow{from{transform:scaleY(.55)}to{transform:scaleY(1)}}
+      .sweep{stroke-dasharray:340;stroke-dashoffset:340;animation:sweep 3.2s ease-in-out infinite}
+      @keyframes sweep{0%{stroke-dashoffset:340}55%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}
+    </style>
+  </defs>
+<rect width="1280" height="500" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="500" rx="24" fill="url(#grid)"/>
+<circle cx="80" cy="438" r="1.9" fill="#D6C5A1" opacity="0.46"><animate attributeName="opacity" values="0.46;0.81;0.46" dur="4.6s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="164" cy="88" r="1.2" fill="#D6C5A1" opacity="0.38"><animate attributeName="opacity" values="0.38;0.73;0.38" dur="4.3s" begin="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="248" cy="52" r="1.4" fill="#D6C5A1" opacity="0.29"><animate attributeName="opacity" values="0.29;0.6399999999999999;0.29" dur="4.2s" begin="3.1s" repeatCount="indefinite"/></circle>
+<circle cx="332" cy="40" r="1.6" fill="#D6C5A1" opacity="0.35"><animate attributeName="opacity" values="0.35;0.7;0.35" dur="4.0s" begin="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="416" cy="70" r="1.6" fill="#D6C5A1" opacity="0.46"><animate attributeName="opacity" values="0.46;0.81;0.46" dur="3.3s" begin="0.1s" repeatCount="indefinite"/></circle>
+<circle cx="500" cy="88" r="1.6" fill="#D6C5A1" opacity="0.44"><animate attributeName="opacity" values="0.44;0.79;0.44" dur="3.8s" begin="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="584" cy="88" r="1.5" fill="#D6C5A1" opacity="0.41"><animate attributeName="opacity" values="0.41;0.76;0.41" dur="4.1s" begin="2.3s" repeatCount="indefinite"/></circle>
+<circle cx="668" cy="438" r="1.7" fill="#D6C5A1" opacity="0.35"><animate attributeName="opacity" values="0.35;0.7;0.35" dur="4.2s" begin="3.3s" repeatCount="indefinite"/></circle>
+<circle cx="752" cy="52" r="1.7" fill="#D6C5A1" opacity="0.33"><animate attributeName="opacity" values="0.33;0.6799999999999999;0.33" dur="3.6s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="836" cy="52" r="1.6" fill="#D6C5A1" opacity="0.28"><animate attributeName="opacity" values="0.28;0.63;0.28" dur="3.4s" begin="1.0s" repeatCount="indefinite"/></circle>
+<circle cx="920" cy="52" r="2.0" fill="#D6C5A1" opacity="0.46"><animate attributeName="opacity" values="0.46;0.81;0.46" dur="3.2s" begin="0.7s" repeatCount="indefinite"/></circle>
+<circle cx="1004" cy="40" r="1.5" fill="#D6C5A1" opacity="0.5"><animate attributeName="opacity" values="0.5;0.85;0.5" dur="3.9s" begin="0.3s" repeatCount="indefinite"/></circle>
+<circle cx="844" cy="88" r="1.8" fill="#D6C5A1" opacity="0.32"><animate attributeName="opacity" values="0.32;0.6699999999999999;0.32" dur="3.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="619" cy="52" r="1.1" fill="#D6C5A1" opacity="0.43"><animate attributeName="opacity" values="0.43;0.78;0.43" dur="3.2s" begin="1.6s" repeatCount="indefinite"/></circle>
+<path d="M0 406 C190 366 355 438 530 414 S835 365 1008 394 S1164 432 1280 410" fill="none" stroke="#303831" stroke-width="2" opacity=".50"/>
+<path d="M0 444 C180 410 354 466 535 448 S842 412 1010 434 S1160 458 1280 446" fill="none" stroke="#303831" stroke-width="1.5" opacity=".32"/>
+<g filter="url(#softShadow)"><rect x="42" y="60" width="694" height="392" rx="24" fill="#0D120F" fill-opacity=".90" stroke="#3A433B"/></g>
+<g transform="translate(68 86)">
+    <rect width="330" height="44" rx="22" fill="#0D120F" stroke="#D6C5A1" stroke-opacity=".70"/>
+    <circle cx="22" cy="22" r="5.5" fill="#B35C3D" class="badgePulse" filter="url(#glow)"/>
+    <text x="44" y="28" fill="#F0EDE5" font-size="14" font-weight="700" letter-spacing="2.4">PORTFÓLIO PROFISSIONAL</text>
+  </g>
+<text x="68" y="222" fill="#F0EDE5" font-size="78" font-weight="900" letter-spacing="-2">Max</text>
+<text x="256" y="222" fill="url(#nameGold)" font-size="78" font-family="Georgia,Times New Roman,serif" font-style="italic" font-weight="700">Godoy</text>
+<line x1="68" y1="252" x2="702" y2="252" stroke="#303831"/>
+<text x="68" y="294" fill="#F0EDE5" font-size="20" font-weight="700">DADOS · ANALYTICS &amp; BI · AUTOMAÇÃO DE PROCESSOS</text>
+<text x="68" y="336" fill="#9A958C" font-size="17">Processos bem entendidos transformam informação em decisão</text>
+<text x="68" y="362" fill="#9A958C" font-size="17">e tecnologia em valor.</text>
+<g transform="translate(68 386)">
+<rect x="0" width="184" height="42" rx="6" fill="none" stroke="#B35C3D" stroke-opacity=".78"/>
+<text x="92.0" y="26" text-anchor="middle" fill="#F0EDE5" font-size="13" font-weight="700">PROCESSOS → DADOS</text>
+<rect x="200" width="148" height="42" rx="6" fill="none" stroke="#C7A24A" stroke-opacity=".78"/>
+<text x="274.0" y="26" text-anchor="middle" fill="#F0EDE5" font-size="13" font-weight="700">BI → DECISÃO</text>
+<rect x="364" width="174" height="42" rx="6" fill="none" stroke="#7C4653" stroke-opacity=".78"/>
+<text x="451.0" y="26" text-anchor="middle" fill="#F0EDE5" font-size="13" font-weight="700">DADOS → AUTOMAÇÃO</text>
+</g>
+<g filter="url(#softShadow)"><rect x="766" y="60" width="472" height="392" rx="24" fill="#0D120F" fill-opacity=".90" stroke="#3A433B"/></g>
+<circle cx="794" cy="89" r="4.5" fill="#5FA7A2" filter="url(#glow)"><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/></circle>
+<text x="808" y="94" fill="#F0EDE5" font-size="13" font-weight="800" letter-spacing="1.6">PAINEL DE DADOS</text>
+<text x="1216" y="94" text-anchor="end" fill="#9A958C" font-size="10.5" font-weight="700" letter-spacing="1.2">TEMPO REAL</text>
+<rect x="788" y="112" width="44" height="22" rx="11" fill="none" stroke="#303831"/>
+<text x="810.0" y="127" text-anchor="middle" fill="#9A958C" font-size="10.5" font-weight="700">7D</text>
+<rect x="840" y="112" width="44" height="22" rx="11" fill="#C7A24A"/>
+<text x="862.0" y="127" text-anchor="middle" fill="#0D120F" font-size="10.5" font-weight="800">30D</text>
+<rect x="892" y="112" width="44" height="22" rx="11" fill="none" stroke="#303831"/>
+<text x="914.0" y="127" text-anchor="middle" fill="#9A958C" font-size="10.5" font-weight="700">90D</text>
+<rect x="788.0" y="152" width="134.7" height="62" rx="10" fill="#141A16" stroke="#303831"/>
+<rect x="788.0" y="152" width="134.7" height="3" rx="1.5" fill="#B35C3D"/>
+<text x="802.0" y="182" fill="#F0EDE5" font-size="19" font-weight="800">128</text>
+<g transform="translate(898.7 166)" stroke="#B35C3D" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M0 8l6-8 5 5 7-9"/><path d="M14 -4h4v4"/></g>
+<text x="802.0" y="200" fill="#9A958C" font-size="9.5">registros / mês</text>
+<rect x="934.7" y="152" width="134.7" height="62" rx="10" fill="#141A16" stroke="#303831"/>
+<rect x="934.7" y="152" width="134.7" height="3" rx="1.5" fill="#C7A24A"/>
+<text x="948.7" y="182" fill="#F0EDE5" font-size="19" font-weight="800">94%</text>
+<g transform="translate(1045.3 166)" stroke="#C7A24A" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M0 8l6-8 5 5 7-9"/><path d="M14 -4h4v4"/></g>
+<text x="948.7" y="200" fill="#9A958C" font-size="9.5">processos automatizados</text>
+<rect x="1081.3" y="152" width="134.7" height="62" rx="10" fill="#141A16" stroke="#303831"/>
+<rect x="1081.3" y="152" width="134.7" height="3" rx="1.5" fill="#5FA7A2"/>
+<text x="1095.3" y="182" fill="#F0EDE5" font-size="19" font-weight="800">12</text>
+<g transform="translate(1192.0 166)" stroke="#5FA7A2" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M0 8l6-8 5 5 7-9"/><path d="M14 -4h4v4"/></g>
+<text x="1095.3" y="200" fill="#9A958C" font-size="9.5">dashboards publicados</text>
+<rect x="788" y="232" width="256.8" height="110" rx="10" fill="#141A16" stroke="#303831"/>
+<text x="800" y="250" fill="#9A958C" font-size="9.5" font-weight="800" letter-spacing="1">VOLUME PROCESSADO</text>
+<line x1="800" y1="330" x2="1032.8" y2="330" stroke="#303831"/>
+<rect x="808.3" y="300.6" width="16.6" height="29.4" rx="2.5" fill="#7D8B72" opacity="0.92" class="barGrow" style="animation-delay:0.0s"/>
+<rect x="841.6" y="289.4" width="16.6" height="40.6" rx="2.5" fill="#7D8B72" opacity="0.92" class="barGrow" style="animation-delay:0.15s"/>
+<rect x="874.8" y="295.0" width="16.6" height="35.0" rx="2.5" fill="#7D8B72" opacity="0.92" class="barGrow" style="animation-delay:0.3s"/>
+<rect x="908.1" y="279.6" width="16.6" height="50.4" rx="2.5" fill="#C7A24A" opacity="0.92" class="barGrow" style="animation-delay:0.45s"/>
+<rect x="941.3" y="285.2" width="16.6" height="44.8" rx="2.5" fill="#7D8B72" opacity="0.92" class="barGrow" style="animation-delay:0.6s"/>
+<rect x="974.6" y="271.2" width="16.6" height="58.8" rx="2.5" fill="#C7A24A" opacity="0.92" class="barGrow" style="animation-delay:0.75s"/>
+<rect x="1007.9" y="263.5" width="16.6" height="66.5" rx="2.5" fill="#B35C3D" opacity="0.92" class="barGrow" style="animation-delay:0.9s"/>
+<rect x="1060.8" y="232" width="155.2" height="110" rx="10" fill="#141A16" stroke="#303831"/>
+<text x="1072.8" y="250" fill="#9A958C" font-size="9.5" font-weight="800" letter-spacing="1">MIX DA STACK</text>
+<circle cx="1138.4" cy="297.0" r="34" fill="none" stroke="#C7A24A" stroke-width="10" stroke-dasharray="85.5 128.2" stroke-dashoffset="0.0" transform="rotate(-90 1138.4 297.0)" stroke-linecap="butt"/>
+<circle cx="1138.4" cy="297.0" r="34" fill="none" stroke="#7D8B72" stroke-width="10" stroke-dasharray="55.5 158.1" stroke-dashoffset="-85.5" transform="rotate(-90 1138.4 297.0)" stroke-linecap="butt"/>
+<circle cx="1138.4" cy="297.0" r="34" fill="none" stroke="#6F7B83" stroke-width="10" stroke-dasharray="42.7 170.9" stroke-dashoffset="-141.0" transform="rotate(-90 1138.4 297.0)" stroke-linecap="butt"/>
+<circle cx="1138.4" cy="297.0" r="34" fill="none" stroke="#B35C3D" stroke-width="10" stroke-dasharray="29.9 183.7" stroke-dashoffset="-183.7" transform="rotate(-90 1138.4 297.0)" stroke-linecap="butt"/>
+<text x="1138.4" y="301.0" text-anchor="middle" fill="#F0EDE5" font-size="13" font-weight="800">BI</text>
+<rect x="788" y="362" width="428.0" height="34" rx="7" fill="#0D120F" fill-opacity=".9" stroke="#303831"/>
+<text x="1002.0" y="384" text-anchor="middle" fill="#9A958C" font-size="9.6" font-weight="700" letter-spacing=".8">COLETA → TRATAMENTO → MODELAGEM → AUTOMAÇÃO → PAINEL</text>
+<rect x="1" y="1" width="1278" height="498" rx="23" fill="none" stroke="#303831"/>
+</svg>

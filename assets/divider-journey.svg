@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="18" viewBox="0 0 1280 18">
+  <defs>
+    <style>
+      .dot{animation:move 5.5s ease-in-out infinite}
+      @keyframes move{0%{transform:translateX(0)}50%{transform:translateX(1168px)}100%{transform:translateX(0)}}
+    </style>
+  </defs>
+  <line x1="40" y1="9" x2="1240" y2="9" stroke="#C7A24A" stroke-width="2" opacity=".75"/>
+  <circle cx="44" cy="9" r="5" fill="#C7A24A" class="dot"/>
+</svg>

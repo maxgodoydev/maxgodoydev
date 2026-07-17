@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="180" viewBox="0 0 1280 180" role="img" aria-labelledby="title desc">
+<title id="title">Rodapé do perfil — processos bem entendidos geram decisões melhores</title>
+<desc id="desc">Rodapé com citação e um mini painel de dados: gráfico de barras com linha de tendência.</desc>
+<defs>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="2" seed="7"/>
+      <feComponentTransfer><feFuncA type="table" tableValues="0 .05"/></feComponentTransfer>
+    </filter>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      text{font-family:Arial,Helvetica,sans-serif}
+      .barGrow{transform-box:fill-box;transform-origin:bottom;animation:grow 2.4s ease-out infinite alternate}
+      @keyframes grow{from{transform:scaleY(.6)}to{transform:scaleY(1)}}
+      .dot{animation:pulse 2s ease-in-out infinite}
+      @keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}
+    </style>
+  </defs>
+<rect width="1280" height="180" rx="18" fill="#F7F3EA"/>
+<line x1="54" y1="54" x2="1226" y2="54" stroke="#DDD5C3"/>
+<text x="54" y="95" fill="#20241F" font-size="25" font-family="Georgia,Times New Roman,serif" font-style="italic" font-weight="700">Processos bem entendidos geram decisões melhores.</text>
+<text x="54" y="128" fill="#6B655A" font-size="13" letter-spacing="1.2">DADOS · ANALYTICS &amp; BI · AUTOMAÇÃO DE PROCESSOS</text>
+<rect x="1016" y="28" width="210" height="96" rx="12" fill="#FFFFFF" stroke="#E3DBC8"/>
+<circle cx="1032" cy="46" r="4" fill="#5FA7A2" class="dot" filter="url(#glow)"/>
+<text x="1044" y="50" fill="#6B655A" font-size="9.5" font-weight="800" letter-spacing="1">TENDÊNCIA MENSAL</text>
+<rect x="1035.7" y="92.5" width="11.4" height="17.5" rx="2" fill="#7D8B72" opacity="0.9" class="barGrow" style="animation-delay:0.0s"/>
+<rect x="1058.4" y="85.0" width="11.4" height="25.0" rx="2" fill="#7D8B72" opacity="0.9" class="barGrow" style="animation-delay:0.12s"/>
+<rect x="1081.2" y="89.0" width="11.4" height="21.0" rx="2" fill="#7D8B72" opacity="0.9" class="barGrow" style="animation-delay:0.24s"/>
+<rect x="1103.9" y="79.0" width="11.4" height="31.0" rx="2" fill="#C7A24A" opacity="0.9" class="barGrow" style="animation-delay:0.36s"/>
+<rect x="1126.7" y="82.5" width="11.4" height="27.5" rx="2" fill="#7D8B72" opacity="0.9" class="barGrow" style="animation-delay:0.48s"/>
+<rect x="1149.4" y="71.0" width="11.4" height="39.0" rx="2" fill="#C7A24A" opacity="0.9" class="barGrow" style="animation-delay:0.6s"/>
+<rect x="1172.2" y="75.0" width="11.4" height="35.0" rx="2" fill="#C7A24A" opacity="0.9" class="barGrow" style="animation-delay:0.72s"/>
+<rect x="1194.9" y="64.0" width="11.4" height="46.0" rx="2" fill="#B35C3D" opacity="0.9" class="barGrow" style="animation-delay:0.84s"/>
+<path d="M1041.4 88.5 L1064.1 81.0 L1086.9 85.0 L1109.6 75.0 L1132.4 78.5 L1155.1 67.0 L1177.9 71.0 L1200.6 60.0" fill="none" stroke="#5FA7A2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.95"/>
+<circle cx="1200.6" cy="60.0" r="3.4" fill="#5FA7A2" filter="url(#glow)"/>
+<line x1="1030" y1="110" x2="1212" y2="110" stroke="#DDD5C3"/>
+<rect x="1" y="1" width="1278" height="178" rx="17" fill="none" stroke="#DDD5C3"/>
+<rect width="1280" height="180" rx="18" filter="url(#grain)" opacity=".35"/>
+</svg>
