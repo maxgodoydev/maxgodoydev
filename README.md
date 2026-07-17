@@ -87,8 +87,8 @@ Estágio em **Dados, Analytics & BI** ou **Automação de Processos**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maxgodoydev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de maxgodoydev" height="195" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxgodoydev&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas" height="195" />
+<img src="./profile/stats.svg" alt="Estatísticas do GitHub de maxgodoydev" height="195" />
+<img src="./profile/top-langs.svg" alt="Linguagens mais usadas" height="195" />
 
 </div>
 
