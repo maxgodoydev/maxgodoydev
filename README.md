@@ -48,9 +48,6 @@ Vivência profissional em ambientes jurídico-societários, com foco em contrato
 **FATEC - Zona Sul**
 
 <br>
-
-<img src="https://img.shields.io/badge/Período-Vespertino%20(tarde)-2B2D2A?style=plastic&labelColor=151714&color=7D8B72" alt="Período" />
-<br>
 <img src="https://img.shields.io/badge/Semestre%20atual-4º%20semestre-2B2D2A?style=plastic&labelColor=151714&color=6F7B83" alt="Semestre atual" />
 <br>
 <img src="https://img.shields.io/badge/Início-02%2F2025-2B2D2A?style=plastic&labelColor=151714&color=C7A24A" alt="Início" />
@@ -64,9 +61,7 @@ Vivência profissional em ambientes jurídico-societários, com foco em contrato
 ## 🎯 Objetivo
 <br>
 
-
 Estágio em **Data Analytics | Data Science | Business Intelligence | Engenharia de Dados**.
-
 
 </td>
 
@@ -242,8 +237,6 @@ Stack já aplicada em projetos reais — sem entrar em ferramenta que eu ainda n
 # 📊 LINGUAGENS DOS MEUS PROJETOS
 
 Distribuição automática das linguagens detectadas nos meus **repositórios públicos**, com percentuais atualizados pelo GitHub Actions.
-
-> ⚠️ **Ação necessária após o upload:** o arquivo `assets/generated/language-activity-*.svg` deste pacote está no estado de placeholder ("Aguardando a primeira sincronização", 0 repositórios) porque a última geração local rodou com um usuário diferente do configurado no workflow. Depois de subir este repositório, rode a Action **"Atualizar linguagens dos projetos"** manualmente uma vez (aba Actions → Run workflow) para popular o gráfico com dados reais antes de divulgar o perfil.
 
 <div align="center">
 
