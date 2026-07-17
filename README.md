@@ -208,47 +208,6 @@ Sistema acadêmico desenvolvido para centralizar e organizar oportunidades de bo
 
 <img width="100%" src="./assets/divider-value.svg" alt="Divisor da seção Como trabalho">
 
-# 💼 COMO TRANSFORMO PROBLEMAS EM SOLUÇÕES
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/work-method-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/work-method-light.svg">
-  <img width="100%" alt="Método de trabalho: análise, processos, documentação, execução e melhoria" src="./assets/work-method-dark.svg">
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PROCESSO-PROBLEMA%20→%20DADOS%20→%20SOLUÇÃO-6F7B83?style=for-the-badge&labelColor=171B18" alt="Processo: problema, dados, solução" />
-<img src="https://img.shields.io/badge/IA-APOIO%20COM%20CRITÉRIO-7C4653?style=for-the-badge&labelColor=171B18" alt="Uso de IA como apoio, com critério" />
-
-</div>
-
-<br>
-
-<img width="100%" src="./assets/divider-journey.svg" alt="Divisor da seção Trajetória">
-
-# 🧭 TRAJETÓRIA PROFISSIONAL
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/journey-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/journey-light.svg">
-  <img width="100%" alt="Trajetória: base profissional, formação técnica, projetos funcionais, dados e BI, próximos estudos, automação e estágio" src="./assets/journey-dark.svg">
-</picture>
-
-</div>
-
-<br>
-
-<img width="100%" src="./assets/divider-stack.svg" alt="Divisor da seção Tecnologias">
-
 # 🛠️ TECNOLOGIAS E ESTUDOS
 
 Stack já aplicada em projetos reais — sem entrar em ferramenta que eu ainda não usei na prática.
