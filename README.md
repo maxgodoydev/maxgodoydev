@@ -78,8 +78,21 @@ Estágio em **Dados, Analytics & BI** ou **Automação de Processos**.
 
 <div align="center">
 
-<img src="./profile/stats.svg" alt="Estatísticas do GitHub de maxgodoydev" height="195" />
-<img src="./profile/top-langs.svg" alt="Linguagens mais usadas" height="195" />
+<img src="./profile/stats.svg?v=1" alt="Estatísticas do GitHub de maxgodoydev" height="195" />
+<img src="./profile/top-langs.svg?v=1" alt="Linguagens mais usadas" height="195" />
+
+</div>
+
+<br>
+
+## 🧊 Contribuições em 3D
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxgodoydev/maxgodoydev/3d-contrib/profile-green.svg">
+  <img width="100%" alt="Gráfico 3D de contribuições do GitHub" src="https://raw.githubusercontent.com/maxgodoydev/maxgodoydev/3d-contrib/profile-green.svg">
+</picture>
 
 </div>
 
@@ -136,13 +149,6 @@ Aberto a oportunidades de estágio, colaboração e projetos em tecnologia, dado
 <br>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxgodoydev/maxgodoydev/3d-contrib/profile-green.svg">
-  <img width="100%" alt="Gráfico 3D de contribuições do GitHub" src="https://raw.githubusercontent.com/maxgodoydev/maxgodoydev/3d-contrib/profile-green.svg">
-</picture>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=maxgodoydev&style=flat&color=7C4653&label=VISUALIZAÇÕES" alt="Contador de visualizações do perfil" />
 
