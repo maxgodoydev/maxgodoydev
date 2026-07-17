@@ -3,20 +3,16 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img width="100%" alt="Max Godoy — Dados, Analytics & BI, Automação de Processos. Painel de dados com KPIs, gráfico de barras e gráfico de rosca" src="./assets/hero-dark.svg">
+  <img width="100%" alt="Max Godoy — Dados, Analytics & BI, Automação de Processos. Painel de dados com KPIs, gráfico de barras e gráfico de rosca" src="./assets/hero-light.svg">
 </picture>
 
 <br>
 
+### Ex-jurídico/societário (+12 anos) em transição para Dados, Analytics & BI
+
+Python · SQL · MongoDB · Power BI · Node.js · JavaScript
+
 </div>
-
-<br>
-
-## 👤 Sobre
-
-Estudante do 4º semestre de Desenvolvimento de Software Multiplataforma (FATEC Zona Sul), em transição da área jurídica/societária — 12 anos lidando com contratos, prazos e análise de risco — para Dados e Analytics. Essa vivência é a base para entender a regra de negócio antes de modelar ou escrever código.
-
-Aplico isso em projetos reais com **Python, SQL, MongoDB, Power BI, Node.js e JavaScript**, além de ter fundado o **BASE LAB FATEC**, comunidade de apoio a outros alunos. Busco estágio em **Dados, Analytics, BI e/ou Automação de Processos**.
 
 <br>
 
@@ -29,44 +25,33 @@ Aplico isso em projetos reais com **Python, SQL, MongoDB, Power BI, Node.js e Ja
 <table width="100%">
 <tr>
 
-<td align="center" width="29%" valign="top">
+<td align="center" width="33%" valign="top">
 
-## ⏳ Experiência
+### ⏳ Experiência
 
-### +12 anos
-
-Vivência profissional em ambientes jurídico-societários, com foco em contratos, prazos, análise de risco e regra de negócio.
++12 anos em contratos, prazos, análise de risco e regras de negócio em ambiente jurídico-societário.
 
 </td>
 
-<td align="center" width="42%" valign="top">
+<td align="center" width="34%" valign="top">
 
-## 🎓 Formação
+### 🎓 Formação
 
-### Desenvolvimento de Software Multiplataforma
-
-**FATEC - Zona Sul**
+**Desenvolvimento de Software Multiplataforma**
+[FATEC — Zona Sul](https://fateczonasul.edu.br/)
 
 <br>
 
-<img src="https://img.shields.io/badge/Período-Vespertino%20(tarde)-2B2D2A?style=plastic&labelColor=151714&color=7D8B72" alt="Período" />
-<br>
-<img src="https://img.shields.io/badge/Semestre%20atual-4º%20semestre-2B2D2A?style=plastic&labelColor=151714&color=6F7B83" alt="Semestre atual" />
-<br>
-<img src="https://img.shields.io/badge/Início-02%2F2025-2B2D2A?style=plastic&labelColor=151714&color=C7A24A" alt="Início" />
-<br>
-<img src="https://img.shields.io/badge/Conclusão%20prevista-12%2F2027-2B2D2A?style=plastic&labelColor=151714&color=7C4653" alt="Conclusão prevista" />
+<img src="https://img.shields.io/badge/Semestre%20atual-4º-2B2D2A?style=flat-square&labelColor=F1ECE2&color=6F7B83" alt="Semestre atual" />
+<img src="https://img.shields.io/badge/Conclusão%20prevista-12%2F2027-2B2D2A?style=flat-square&labelColor=F1ECE2&color=7C4653" alt="Conclusão prevista" />
 
 </td>
 
-<td align="center" width="29%" valign="top">
+<td align="center" width="33%" valign="top">
 
-## 🎯 Objetivo
-<br>
+### 🎯 Objetivo
 
-
-Estágio em **Dados, Analytics & BI | Automação de Processos**.
-
+Estágio em **Dados, Analytics & BI** ou **Automação de Processos**.
 
 </td>
 
@@ -79,66 +64,39 @@ Estágio em **Dados, Analytics & BI | Automação de Processos**.
 
 <img width="100%" src="./assets/divider-projects.svg" alt="Divisor da seção Projetos">
 
-# 🏆 PROJETOS EM DESTAQUE
-
-| Projeto | Modelo de Negócio | Stack | Links |
-|:-:|---|---|---|
-| **Power BI Portfolio** | Portfólio de Business Intelligence | ![Power BI](https://img.shields.io/badge/-Power%20BI-C7A24A?style=flat&logo=powerbi&logoColor=111111) ![DAX](https://img.shields.io/badge/-DAX-7C4653?style=flat) ![Power Query](https://img.shields.io/badge/-Power%20Query-7D8B72?style=flat) ![SQL](https://img.shields.io/badge/-SQL-6F7B83?style=flat&logo=mysql&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Portfolio_Power_BI) [![Dashboards](https://img.shields.io/badge/-Dashboards-C7A24A?style=flat&logo=powerbi&logoColor=111111)](https://github.com/maxgodoydev/Portfolio_Power_BI) |
-| **Studio Patty Leão** | ERP Monolítico — gestão, vitrine digital, agendamentos e institucional | ![Node.js](https://img.shields.io/badge/-Node.js-566246?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-272B28?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-61745B?style=flat&logo=mongodb&logoColor=white) ![EJS](https://img.shields.io/badge/-EJS-8A6D3B?style=flat&logo=ejs&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Studio_Patty_Leao) [![Online](https://img.shields.io/badge/-Online-708076?style=flat&logo=render&logoColor=white)](https://studio-patty-leao.onrender.com) |
-| **EntreLaços** | Vitrine Digital para Artesanato | ![HTML5](https://img.shields.io/badge/-HTML5-B35C3D?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-6F7B83?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-C7A24A?style=flat&logo=javascript&logoColor=111111) ![JSON](https://img.shields.io/badge/-JSON-272B28?style=flat&logo=json&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Entrelacos) [![Online](https://img.shields.io/badge/-Online-111111?style=flat&logo=vercel&logoColor=white)](https://entrelacos-vitrine.vercel.app) |
-| **InteliBolsas** | Sistema de Gestão Acadêmica | ![PHP](https://img.shields.io/badge/-PHP-6C6078?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-6F7B83?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-61745B?style=flat&logo=mariadb&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-B35C3D?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-6F7B83?style=flat&logo=css3&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/InteliBolsas) |
-
-<sub>Legenda de problema → solução de cada projeto disponível no README do respectivo repositório (link "GitHub" acima).</sub>
-
-<br>
-
-<img width="100%" src="./assets/divider-stats.svg" alt="Divisor da seção Linguagens nos commits">
-
-# 📊 LINGUAGENS DOS MEUS PROJETOS
-
-Distribuição automática das linguagens detectadas nos meus **repositórios públicos**, com percentuais atualizados pelo GitHub Actions.
-
-> ⚠️ **Ação necessária após o upload:** o arquivo `assets/generated/language-activity-*.svg` deste pacote está no estado de placeholder ("Aguardando a primeira sincronização", 0 repositórios) porque a última geração local rodou com um usuário diferente do configurado no workflow. Depois de subir este repositório, rode a Action **"Atualizar linguagens dos projetos"** manualmente uma vez (aba Actions → Run workflow) para popular o gráfico com dados reais antes de divulgar o perfil.
+## 🏆 Projetos em Destaque
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/language-activity-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/generated/language-activity-light.svg">
-  <img width="100%" alt="Percentual das linguagens presentes nos projetos públicos" src="./assets/generated/language-activity-dark.svg">
-</picture>
-
-<br>
-
-<a href="https://github.com/maxgodoydev/maxgodoydev/actions/workflows/update-language-activity.yml">
-  <img alt="Atualização automática das linguagens dos projetos" src="https://github.com/maxgodoydev/maxgodoydev/actions/workflows/update-language-activity.yml/badge.svg">
-</a>
+| Projeto | Modelo de Negócio | Stack | Links |
+|:-:|:-:|:-:|:-:|
+| [**Power BI Portfolio**](https://github.com/maxgodoydev/Portfolio_Power_BI) | Portfólio de Business Intelligence | [![Power BI](https://img.shields.io/badge/-Power%20BI-C7A24A?style=flat&logo=powerbi&logoColor=111111)](https://powerbi.microsoft.com/) [![DAX](https://img.shields.io/badge/-DAX-7C4653?style=flat)](https://learn.microsoft.com/dax/) [![Power Query](https://img.shields.io/badge/-Power%20Query-7D8B72?style=flat)](https://learn.microsoft.com/power-query/) [![SQL](https://img.shields.io/badge/-SQL-6F7B83?style=flat&logo=mysql&logoColor=white)](https://www.w3schools.com/sql/) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Portfolio_Power_BI) |
+| [**Studio Patty Leão**](https://github.com/maxgodoydev/Studio_Patty_Leao) | ERP monolítico — gestão, vitrine digital, agendamentos e institucional | [![Node.js](https://img.shields.io/badge/-Node.js-566246?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/-Express-272B28?style=flat&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/-MongoDB-61745B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![EJS](https://img.shields.io/badge/-EJS-8A6D3B?style=flat&logo=ejs&logoColor=white)](https://ejs.co/) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Studio_Patty_Leao) [![Online](https://img.shields.io/badge/-Online-708076?style=flat&logo=render&logoColor=white)](https://studio-patty-leao.onrender.com) |
+| [**EntreLaços**](https://github.com/maxgodoydev/Entrelacos) | Vitrine digital para artesanato | [![HTML5](https://img.shields.io/badge/-HTML5-B35C3D?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/-CSS3-6F7B83?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/-JavaScript-C7A24A?style=flat&logo=javascript&logoColor=111111)](https://developer.mozilla.org/docs/Web/JavaScript) [![JSON](https://img.shields.io/badge/-JSON-272B28?style=flat&logo=json&logoColor=white)](https://www.json.org/) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Entrelacos) [![Online](https://img.shields.io/badge/-Online-111111?style=flat&logo=vercel&logoColor=white)](https://entrelacos-vitrine.vercel.app) |
+| [**InteliBolsas**](https://github.com/maxgodoydev/InteliBolsas) | Sistema de gestão acadêmica | [![PHP](https://img.shields.io/badge/-PHP-6C6078?style=flat&logo=php&logoColor=white)](https://www.php.net/) [![MySQL](https://img.shields.io/badge/-MySQL-6F7B83?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) [![MariaDB](https://img.shields.io/badge/-MariaDB-61745B?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org/) [![HTML5](https://img.shields.io/badge/-HTML5-B35C3D?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/-CSS3-6F7B83?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/InteliBolsas) |
 
 </div>
 
-<details>
-<summary><strong>Como os percentuais são calculados?</strong></summary>
+<sub align="center">Detalhes de problema → solução de cada projeto no README do respectivo repositório.</sub>
 
 <br>
 
-A automação consulta os meus repositórios públicos e utiliza a classificação de linguagens do próprio GitHub para calcular a participação de cada linguagem no conjunto dos projetos.
+<img width="100%" src="./assets/divider-stats.svg" alt="Divisor da seção GitHub em números">
 
-São desconsiderados:
+## 📊 GitHub em Números
 
-- o repositório deste perfil;
-- forks;
-- repositórios arquivados;
-- linguagens fora do limite de exibição, agrupadas em **Outros**.
+<div align="center">
 
-O cálculo usa a quantidade de bytes identificados pelo GitHub Linguist. A métrica representa a composição dos projetos publicados, e não nível de domínio técnico.
+<img src="https://github-readme-stats.vercel.app/api?username=maxgodoydev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de maxgodoydev" height="195" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxgodoydev&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais usadas" height="195" />
 
-</details>
+</div>
 
 <br>
 
 <img width="100%" src="./assets/divider-contact.svg" alt="Divisor da seção Comunidade e contato">
 
-# 🔬 BASE LAB & CONTATO
+## 🔬 BASE LAB & Contato
 
 <div align="center">
 
@@ -146,9 +104,9 @@ O cálculo usa a quantidade de bytes identificados pelo GitHub Linguist. A métr
 <tr>
 <td width="55%" align="center" valign="top">
 
-## BASE LAB
+### BASE LAB
 
-Comunidade que fundei na FATEC para aproximar estudantes por meio de **encontros, desafios de programação, compartilhamento de materiais e conversas sobre projetos e carreira em tecnologia** — nascida da experiência de liderar projetos desde o 1º semestre.
+Comunidade fundada na FATEC para aproximar estudantes com encontros, desafios de programação e troca sobre carreira em tecnologia.
 
 <br>
 
@@ -159,7 +117,7 @@ Comunidade que fundei na FATEC para aproximar estudantes por meio de **encontros
 </td>
 <td width="45%" align="center" valign="top">
 
-## Vamos conversar?
+### Vamos conversar?
 
 Aberto a oportunidades de estágio, colaboração e projetos em tecnologia, dados e automação.
 
@@ -172,7 +130,7 @@ Aberto a oportunidades de estágio, colaboração e projetos em tecnologia, dado
   <img src="https://img.shields.io/badge/LINKEDIN-44515C?style=flat&logo=linkedin&logoColor=white" alt="LINKEDIN" />
 </a>
 <a href="mailto:maxgodoy.dev@gmail.com">
-  <img src="https://img.shields.io/badge/E--MAIL-7C4653?style=flat&logo=gmail&logoColor=white" alt="E" />
+  <img src="https://img.shields.io/badge/E--MAIL-7C4653?style=flat&logo=gmail&logoColor=white" alt="E-mail" />
 </a>
 
 </td>
@@ -183,25 +141,15 @@ Aberto a oportunidades de estágio, colaboração e projetos em tecnologia, dado
 
 <br>
 
-# 🧊 CONTRIBUIÇÕES EM 3D
-
 <div align="center">
-
-Histórico de commits renderizado em blocos 3D, atualizado automaticamente pelo GitHub Actions.
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxgodoydev/maxgodoydev/3d-contrib/profile-night-rainbow.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxgodoydev/maxgodoydev/3d-contrib/profile-green.svg">
-  <img width="100%" alt="Gráfico 3D de contribuições do GitHub" src="https://raw.githubusercontent.com/maxgodoydev/maxgodoydev/3d-contrib/profile-night-rainbow.svg">
+  <img width="100%" alt="Gráfico 3D de contribuições do GitHub" src="https://raw.githubusercontent.com/maxgodoydev/maxgodoydev/3d-contrib/profile-green.svg">
 </picture>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=maxgodoydev&style=flat&color=7C4653&label=VISUALIZAÇÕES" alt="Contador de visualizações do perfil" />
 
@@ -210,7 +158,7 @@ Histórico de commits renderizado em blocos 3D, atualizado automaticamente pelo 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
-  <img width="100%" alt="Processos bem entendidos geram decisões melhores — mini painel com gráfico de barras e linha de tendência" src="./assets/footer-dark.svg">
+  <img width="100%" alt="Processos bem entendidos geram decisões melhores — mini painel com gráfico de barras e linha de tendência" src="./assets/footer-light.svg">
 </picture>
 
 </div>
