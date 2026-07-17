@@ -16,7 +16,7 @@
 
 Estudante do 4º semestre de Desenvolvimento de Software Multiplataforma (FATEC Zona Sul), em transição da área jurídica/societária — 12 anos lidando com contratos, prazos e análise de risco — para Dados e Analytics. Essa vivência é a base para entender a regra de negócio antes de modelar ou escrever código.
 
-Aplico isso em projetos reais com **Python, SQL, MongoDB, Power BI, Node.js e JavaScript**, além de ter fundado o **BASE LAB FATEC**, comunidade de apoio a outros alunos. Busco estágio em **Data Analytics, Data Science, BI ou Engenharia de Dados**.
+Aplico isso em projetos reais com **Python, SQL, MongoDB, Power BI, Node.js e JavaScript**, além de ter fundado o **BASE LAB FATEC**, comunidade de apoio a outros alunos. Busco estágio em **Dados, Analytics, BI e/ou Automação de Processos**.
 
 <br>
 
@@ -65,7 +65,7 @@ Vivência profissional em ambientes jurídico-societários, com foco em contrato
 <br>
 
 
-Estágio em **Data Analytics | Data Science | Business Intelligence | Engenharia de Dados**.
+Estágio em **Dados, Analytics & BI | Automação de Processos**.
 
 
 </td>
@@ -82,54 +82,13 @@ Estágio em **Data Analytics | Data Science | Business Intelligence | Engenharia
 # 🏆 PROJETOS EM DESTAQUE
 
 | Projeto | Modelo de Negócio | Stack | Links |
-|---|---|---|---|
-| 📊 **Power BI Portfolio** | Portfólio de Business Intelligence | ![Power BI](https://img.shields.io/badge/-Power%20BI-C7A24A?style=flat&logo=powerbi&logoColor=111111) ![DAX](https://img.shields.io/badge/-DAX-7C4653?style=flat) ![Power Query](https://img.shields.io/badge/-Power%20Query-7D8B72?style=flat) ![SQL](https://img.shields.io/badge/-SQL-6F7B83?style=flat&logo=mysql&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Portfolio_Power_BI) [![Dashboards](https://img.shields.io/badge/-Dashboards-C7A24A?style=flat&logo=powerbi&logoColor=111111)](https://github.com/maxgodoydev/Portfolio_Power_BI) |
-| 💇 **Studio Patty Leão** | ERP Monolítico — gestão, vitrine digital, agendamentos e institucional | ![Node.js](https://img.shields.io/badge/-Node.js-566246?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-272B28?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-61745B?style=flat&logo=mongodb&logoColor=white) ![EJS](https://img.shields.io/badge/-EJS-8A6D3B?style=flat&logo=ejs&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Studio_Patty_Leao) [![Online](https://img.shields.io/badge/-Online-708076?style=flat&logo=render&logoColor=white)](https://studio-patty-leao.onrender.com) |
-| 🧶 **EntreLaços** | Vitrine Digital para Artesanato | ![HTML5](https://img.shields.io/badge/-HTML5-B35C3D?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-6F7B83?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-C7A24A?style=flat&logo=javascript&logoColor=111111) ![JSON](https://img.shields.io/badge/-JSON-272B28?style=flat&logo=json&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Entrelacos) [![Online](https://img.shields.io/badge/-Online-111111?style=flat&logo=vercel&logoColor=white)](https://entrelacos-vitrine.vercel.app) |
-| 🎓 **InteliBolsas** | Sistema de Gestão Acadêmica | ![PHP](https://img.shields.io/badge/-PHP-6C6078?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-6F7B83?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-61745B?style=flat&logo=mariadb&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-B35C3D?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-6F7B83?style=flat&logo=css3&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/InteliBolsas) |
+|:-:|---|---|---|
+| **Power BI Portfolio** | Portfólio de Business Intelligence | ![Power BI](https://img.shields.io/badge/-Power%20BI-C7A24A?style=flat&logo=powerbi&logoColor=111111) ![DAX](https://img.shields.io/badge/-DAX-7C4653?style=flat) ![Power Query](https://img.shields.io/badge/-Power%20Query-7D8B72?style=flat) ![SQL](https://img.shields.io/badge/-SQL-6F7B83?style=flat&logo=mysql&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Portfolio_Power_BI) [![Dashboards](https://img.shields.io/badge/-Dashboards-C7A24A?style=flat&logo=powerbi&logoColor=111111)](https://github.com/maxgodoydev/Portfolio_Power_BI) |
+| **Studio Patty Leão** | ERP Monolítico — gestão, vitrine digital, agendamentos e institucional | ![Node.js](https://img.shields.io/badge/-Node.js-566246?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-272B28?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-61745B?style=flat&logo=mongodb&logoColor=white) ![EJS](https://img.shields.io/badge/-EJS-8A6D3B?style=flat&logo=ejs&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Studio_Patty_Leao) [![Online](https://img.shields.io/badge/-Online-708076?style=flat&logo=render&logoColor=white)](https://studio-patty-leao.onrender.com) |
+| **EntreLaços** | Vitrine Digital para Artesanato | ![HTML5](https://img.shields.io/badge/-HTML5-B35C3D?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-6F7B83?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-C7A24A?style=flat&logo=javascript&logoColor=111111) ![JSON](https://img.shields.io/badge/-JSON-272B28?style=flat&logo=json&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Entrelacos) [![Online](https://img.shields.io/badge/-Online-111111?style=flat&logo=vercel&logoColor=white)](https://entrelacos-vitrine.vercel.app) |
+| **InteliBolsas** | Sistema de Gestão Acadêmica | ![PHP](https://img.shields.io/badge/-PHP-6C6078?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-6F7B83?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-61745B?style=flat&logo=mariadb&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-B35C3D?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-6F7B83?style=flat&logo=css3&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/InteliBolsas) |
 
 <sub>Legenda de problema → solução de cada projeto disponível no README do respectivo repositório (link "GitHub" acima).</sub>
-
-<br>
-
-<img width="100%" src="./assets/divider-value.svg" alt="Divisor da seção Como trabalho">
-
-# 💼 COMO TRANSFORMO PROBLEMAS EM SOLUÇÕES
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/work-method-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/work-method-light.svg">
-  <img width="100%" alt="Método de trabalho: análise, processos, documentação, execução e melhoria" src="./assets/work-method-dark.svg">
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PROCESSO-PROBLEMA%20→%20DADOS%20→%20SOLUÇÃO-6F7B83?style=flat&labelColor=171B18" alt="Processo: problema, dados, solução" />
-<img src="https://img.shields.io/badge/IA-APOIO%20COM%20CRITÉRIO-7C4653?style=flat&labelColor=171B18" alt="Uso de IA como apoio, com critério" />
-
-</div>
-
-<br>
-
-<img width="100%" src="./assets/divider-journey.svg" alt="Divisor da seção Trajetória">
-
-# 🧭 TRAJETÓRIA PROFISSIONAL
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/journey-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/journey-light.svg">
-  <img width="100%" alt="Trajetória: base profissional, formação técnica, projetos funcionais, dados e BI, próximos estudos, automação e estágio" src="./assets/journey-dark.svg">
-</picture>
-
-</div>
 
 <br>
 
@@ -234,28 +193,8 @@ Histórico de commits renderizado em blocos 3D, atualizado automaticamente pelo 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxgodoydev/maxgodoydev/3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxgodoydev/maxgodoydev/3d-contrib/profile-south.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxgodoydev/maxgodoydev/3d-contrib/profile-green.svg">
   <img width="100%" alt="Gráfico 3D de contribuições do GitHub" src="https://raw.githubusercontent.com/maxgodoydev/maxgodoydev/3d-contrib/profile-night-rainbow.svg">
-</picture>
-
-</div>
-
-<br>
-
-<img width="100%" src="./assets/divider-stats.svg" alt="Divisor da seção Breakout">
-
-# 🕹️ BREAKOUT DE CONTRIBUIÇÕES
-
-<div align="center">
-
-Cada contribuição vira um bloco no jogo, atualizado automaticamente pelo GitHub Actions.
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxgodoydev/maxgodoydev/github-breakout/images/breakout-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxgodoydev/maxgodoydev/github-breakout/images/breakout-light.svg">
-  <img width="100%" alt="Breakout das contribuições do GitHub" src="https://raw.githubusercontent.com/maxgodoydev/maxgodoydev/github-breakout/images/breakout-light.svg">
 </picture>
 
 </div>

@@ -15,13 +15,15 @@ jobs:
 
     steps:
       - name: Baixar o repositório
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Gerar os SVGs 3D de contribuições
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          SVG_OUT_DIR: /tmp/3d-contrib-images
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        # A Action grava os arquivos em profile-3d-contrib/*.svg
+        # dentro do próprio checkout (não existe variável SVG_OUT_DIR).
 
       - name: Configurar o Git
         run: |
@@ -30,11 +32,12 @@ jobs:
 
       - name: Publicar os SVGs na branch 3d-contrib
         run: |
+          mkdir -p /tmp/3d-contrib-out
+          cp profile-3d-contrib/*.svg /tmp/3d-contrib-out/
+
           git checkout --orphan 3d-contrib
           git rm -rf .
-          mkdir -p /tmp/3d-contrib-out
-          mv /tmp/3d-contrib-images/* /tmp/3d-contrib-out/ 2>/dev/null || true
-          mv /tmp/3d-contrib-out/* .
+          cp /tmp/3d-contrib-out/*.svg .
           git add .
           git commit -m "chore: atualizar contribuições em 3D" || echo "Sem alterações para publicar"
           git push --force origin 3d-contrib
