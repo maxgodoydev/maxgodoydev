@@ -48,6 +48,9 @@ Vivência profissional em ambientes jurídico-societários, com foco em contrato
 **FATEC - Zona Sul**
 
 <br>
+
+<img src="https://img.shields.io/badge/Período-Vespertino%20(tarde)-2B2D2A?style=plastic&labelColor=151714&color=7D8B72" alt="Período" />
+<br>
 <img src="https://img.shields.io/badge/Semestre%20atual-4º%20semestre-2B2D2A?style=plastic&labelColor=151714&color=6F7B83" alt="Semestre atual" />
 <br>
 <img src="https://img.shields.io/badge/Início-02%2F2025-2B2D2A?style=plastic&labelColor=151714&color=C7A24A" alt="Início" />
@@ -61,7 +64,9 @@ Vivência profissional em ambientes jurídico-societários, com foco em contrato
 ## 🎯 Objetivo
 <br>
 
+
 Estágio em **Data Analytics | Data Science | Business Intelligence | Engenharia de Dados**.
+
 
 </td>
 
@@ -76,159 +81,55 @@ Estágio em **Data Analytics | Data Science | Business Intelligence | Engenharia
 
 # 🏆 PROJETOS EM DESTAQUE
 
-<div align="center">
+| Projeto | Modelo de Negócio | Stack | Links |
+|---|---|---|---|
+| 📊 **Power BI Portfolio** | Portfólio de Business Intelligence | ![Power BI](https://img.shields.io/badge/-Power%20BI-C7A24A?style=flat&logo=powerbi&logoColor=111111) ![DAX](https://img.shields.io/badge/-DAX-7C4653?style=flat) ![Power Query](https://img.shields.io/badge/-Power%20Query-7D8B72?style=flat) ![SQL](https://img.shields.io/badge/-SQL-6F7B83?style=flat&logo=mysql&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Portfolio_Power_BI) [![Dashboards](https://img.shields.io/badge/-Dashboards-C7A24A?style=flat&logo=powerbi&logoColor=111111)](https://github.com/maxgodoydev/Portfolio_Power_BI) |
+| 💇 **Studio Patty Leão** | ERP Monolítico — gestão, vitrine digital, agendamentos e institucional | ![Node.js](https://img.shields.io/badge/-Node.js-566246?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-272B28?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-61745B?style=flat&logo=mongodb&logoColor=white) ![EJS](https://img.shields.io/badge/-EJS-8A6D3B?style=flat&logo=ejs&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Studio_Patty_Leao) [![Online](https://img.shields.io/badge/-Online-708076?style=flat&logo=render&logoColor=white)](https://studio-patty-leao.onrender.com) |
+| 🧶 **EntreLaços** | Vitrine Digital para Artesanato | ![HTML5](https://img.shields.io/badge/-HTML5-B35C3D?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-6F7B83?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-C7A24A?style=flat&logo=javascript&logoColor=111111) ![JSON](https://img.shields.io/badge/-JSON-272B28?style=flat&logo=json&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Entrelacos) [![Online](https://img.shields.io/badge/-Online-111111?style=flat&logo=vercel&logoColor=white)](https://entrelacos-vitrine.vercel.app) |
+| 🎓 **InteliBolsas** | Sistema de Gestão Acadêmica | ![PHP](https://img.shields.io/badge/-PHP-6C6078?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-6F7B83?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-61745B?style=flat&logo=mariadb&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-B35C3D?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-6F7B83?style=flat&logo=css3&logoColor=white) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/InteliBolsas) |
 
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-## 📊 Power BI Portfolio
-
-Portfólio de dashboards e estudos voltados à leitura de negócio e tomada de decisão.
-
-**Problema resolvido:** transformar bases e informações dispersas em indicadores visuais comparáveis.
-
-**Solução entregue:** painéis com **KPIs, análises operacionais, modelagem e leituras gerenciais**.
-
-<br>
-
-<img src="https://img.shields.io/badge/Power%20BI-C7A24A?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI" />
-<img src="https://img.shields.io/badge/Power%20Query-7D8B72?style=flat-square" alt="Power Query" />
-<img src="https://img.shields.io/badge/DAX-7C4653?style=flat-square" alt="DAX" />
-<img src="https://img.shields.io/badge/KPIs-6F7B83?style=flat-square" alt="KPIs" />
-
-<br><br>
-
-<a href="https://github.com/maxgodoydev/Portfolio_Power_BI">
-  <img src="https://img.shields.io/badge/VER%20DASHBOARDS-171B18?style=for-the-badge&logo=github&logoColor=C7A24A" alt="VER DASHBOARDS" />
-</a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-## 💇 Studio Patty Leão
-
-Sistema web em produção para centralizar a operação de um salão de beleza.
-
-**Problema resolvido:** controles distribuídos entre cadernos, mensagens, folhas e rotinas manuais.
-
-**Solução entregue:** fluxo integrado de **agendamentos, recepção, agenda profissional, reservas presenciais, estoque, financeiro manual e BI básico**.
-
-<br>
-
-<img src="https://img.shields.io/badge/Node.js-566246?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-272B28?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/MongoDB-61745B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MVC-6F7B83?style=flat-square" alt="MVC" />
-<img src="https://img.shields.io/badge/Render-708076?style=flat-square&logo=render&logoColor=white" alt="Render" />
-
-<br><br>
-
-<a href="https://studio-patty-leao.onrender.com">
-  <img src="https://img.shields.io/badge/PLATAFORMA%20ONLINE-171B18?style=for-the-badge&logo=render&logoColor=D6C5A1" alt="PLATAFORMA ONLINE" />
-</a>
-<a href="https://github.com/maxgodoydev/Studio_Patty_Leao">
-  <img src="https://img.shields.io/badge/CÓDIGO%20E%20DOCUMENTAÇÃO-171B18?style=for-the-badge&logo=github&logoColor=F1ECE2" alt="CÓDIGO E DOCUMENTAÇÃO" />
-</a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-## 🧶 EntreLaços
-
-Vitrine digital responsiva criada para organizar a apresentação e o atendimento de produtos artesanais.
-
-**Problema resolvido:** produtos e informações distribuídos entre imagens, mensagens e conversas individuais.
-
-**Solução entregue:** catálogo online com **filtros, dados estruturados em JSON, visualização responsiva e direcionamento para atendimento no WhatsApp**.
-
-<br>
-
-<img src="https://img.shields.io/badge/HTML5-B35C3D?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-6F7B83?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-C7A24A?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
-<img src="https://img.shields.io/badge/JSON-272B28?style=flat-square&logo=json&logoColor=white" alt="JSON" />
-<img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-
-<br><br>
-
-<a href="https://entrelacos-vitrine.vercel.app">
-  <img src="https://img.shields.io/badge/PROJETO%20ONLINE-171B18?style=for-the-badge&logo=vercel&logoColor=F1ECE2" alt="PROJETO ONLINE" />
-</a>
-<a href="https://github.com/maxgodoydev/Entrelacos">
-  <img src="https://img.shields.io/badge/CÓDIGO%20E%20DOCUMENTAÇÃO-171B18?style=for-the-badge&logo=github&logoColor=B35C3D" alt="CÓDIGO E DOCUMENTAÇÃO" />
-</a>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-## 🎓 InteliBolsas
-
-Sistema acadêmico desenvolvido para centralizar e organizar oportunidades de bolsas de estudo.
-
-**Problema resolvido:** informações de bolsas, instituições, cursos e usuários sem uma estrutura única para consulta e administração.
-
-**Solução entregue:** aplicação com **CRUD, perfis de acesso e banco relacional MySQL/MariaDB administrado pelo phpMyAdmin**.
-
-<br>
-
-<img src="https://img.shields.io/badge/PHP-6C6078?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/MySQL-6F7B83?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/MariaDB-61745B?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
-<img src="https://img.shields.io/badge/phpMyAdmin-C7A24A?style=flat-square&logo=phpmyadmin&logoColor=111111" alt="phpMyAdmin" />
-<img src="https://img.shields.io/badge/CRUD-7C4653?style=flat-square&logo=databricks&logoColor=white" alt="CRUD" />
-<img src="https://img.shields.io/badge/HTML5-B35C3D?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-6F7B83?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-
-<br><br>
-
-<a href="https://github.com/maxgodoydev/InteliBolsas">
-  <img src="https://img.shields.io/badge/CÓDIGO%20E%20DOCUMENTAÇÃO-171B18?style=for-the-badge&logo=github&logoColor=7D8B72" alt="CÓDIGO E DOCUMENTAÇÃO" />
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
+<sub>Legenda de problema → solução de cada projeto disponível no README do respectivo repositório (link "GitHub" acima).</sub>
 
 <br>
 
 <img width="100%" src="./assets/divider-value.svg" alt="Divisor da seção Como trabalho">
 
-# 🛠️ TECNOLOGIAS E ESTUDOS
-
-Stack já aplicada em projetos reais — sem entrar em ferramenta que eu ainda não usei na prática.
+# 💼 COMO TRANSFORMO PROBLEMAS EM SOLUÇÕES
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/tech-stack-light.svg">
-  <img width="100%" alt="Tecnologias aplicadas em projetos: dados e BI, back-end e automação, front-end e estrutura, ferramentas e deploy" src="./assets/tech-stack-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/work-method-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/work-method-light.svg">
+  <img width="100%" alt="Método de trabalho: análise, processos, documentação, execução e melhoria" src="./assets/work-method-dark.svg">
 </picture>
 
 </div>
 
 <br>
 
-**Próximos passos (roadmap acadêmico):**
+<div align="center">
 
-<img src="https://img.shields.io/badge/Mineração%20de%20Dados-44515C?style=flat-square&logo=databricks&logoColor=white" alt="Roadmap: Mineração de Dados" />
-<img src="https://img.shields.io/badge/Aprendizagem%20de%20Máquina-6F7B83?style=flat-square&logo=scikitlearn&logoColor=white" alt="Roadmap: Aprendizagem de Máquina" />
-<img src="https://img.shields.io/badge/Processamento%20de%20Linguagem%20Natural-61745B?style=flat-square&logo=openai&logoColor=white" alt="Roadmap: Processamento de Linguagem Natural" />
-<img src="https://img.shields.io/badge/Computação%20em%20Nuvem-C7A24A?style=flat-square&logo=microsoftazure&logoColor=111111" alt="Roadmap: Computação em Nuvem" />
+<img src="https://img.shields.io/badge/PROCESSO-PROBLEMA%20→%20DADOS%20→%20SOLUÇÃO-6F7B83?style=flat&labelColor=171B18" alt="Processo: problema, dados, solução" />
+<img src="https://img.shields.io/badge/IA-APOIO%20COM%20CRITÉRIO-7C4653?style=flat&labelColor=171B18" alt="Uso de IA como apoio, com critério" />
+
+</div>
 
 <br>
 
-> Estudo em andamento nos próximos semestres — não é domínio avançado ainda.
+<img width="100%" src="./assets/divider-journey.svg" alt="Divisor da seção Trajetória">
+
+# 🧭 TRAJETÓRIA PROFISSIONAL
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/journey-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/journey-light.svg">
+  <img width="100%" alt="Trajetória: base profissional, formação técnica, projetos funcionais, dados e BI, próximos estudos, automação e estágio" src="./assets/journey-dark.svg">
+</picture>
+
+</div>
 
 <br>
 
@@ -237,6 +138,8 @@ Stack já aplicada em projetos reais — sem entrar em ferramenta que eu ainda n
 # 📊 LINGUAGENS DOS MEUS PROJETOS
 
 Distribuição automática das linguagens detectadas nos meus **repositórios públicos**, com percentuais atualizados pelo GitHub Actions.
+
+> ⚠️ **Ação necessária após o upload:** o arquivo `assets/generated/language-activity-*.svg` deste pacote está no estado de placeholder ("Aguardando a primeira sincronização", 0 repositórios) porque a última geração local rodou com um usuário diferente do configurado no workflow. Depois de subir este repositório, rode a Action **"Atualizar linguagens dos projetos"** manualmente uma vez (aba Actions → Run workflow) para popular o gráfico com dados reais antes de divulgar o perfil.
 
 <div align="center">
 
@@ -291,7 +194,7 @@ Comunidade que fundei na FATEC para aproximar estudantes por meio de **encontros
 <br>
 
 <a href="https://discord.gg/YrnkgMESh">
-  <img src="https://img.shields.io/badge/ENTRAR%20NO%20BASE%20LAB-6C6078?style=for-the-badge&logo=discord&logoColor=white" alt="ENTRAR NO BASE LAB" />
+  <img src="https://img.shields.io/badge/ENTRAR%20NO%20BASE%20LAB-6C6078?style=flat&logo=discord&logoColor=white" alt="ENTRAR NO BASE LAB" />
 </a>
 
 </td>
@@ -304,13 +207,13 @@ Aberto a oportunidades de estágio, colaboração e projetos em tecnologia, dado
 <br>
 
 <a href="https://max-godoy-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-171B18?style=for-the-badge&logo=vercel&logoColor=F1ECE2" alt="PORTFÓLIO" />
+  <img src="https://img.shields.io/badge/PORTFÓLIO-171B18?style=flat&logo=vercel&logoColor=F1ECE2" alt="PORTFÓLIO" />
 </a>
 <a href="https://www.linkedin.com/in/max-godoy/">
-  <img src="https://img.shields.io/badge/LINKEDIN-44515C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN" />
+  <img src="https://img.shields.io/badge/LINKEDIN-44515C?style=flat&logo=linkedin&logoColor=white" alt="LINKEDIN" />
 </a>
 <a href="mailto:maxgodoy.dev@gmail.com">
-  <img src="https://img.shields.io/badge/E--MAIL-7C4653?style=for-the-badge&logo=gmail&logoColor=white" alt="E" />
+  <img src="https://img.shields.io/badge/E--MAIL-7C4653?style=flat&logo=gmail&logoColor=white" alt="E" />
 </a>
 
 </td>
@@ -320,6 +223,26 @@ Aberto a oportunidades de estágio, colaboração e projetos em tecnologia, dado
 </div>
 
 <br>
+
+# 🧊 CONTRIBUIÇÕES EM 3D
+
+<div align="center">
+
+Histórico de commits renderizado em blocos 3D, atualizado automaticamente pelo GitHub Actions.
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxgodoydev/maxgodoydev/3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxgodoydev/maxgodoydev/3d-contrib/profile-south.svg">
+  <img width="100%" alt="Gráfico 3D de contribuições do GitHub" src="https://raw.githubusercontent.com/maxgodoydev/maxgodoydev/3d-contrib/profile-night-rainbow.svg">
+</picture>
+
+</div>
+
+<br>
+
+<img width="100%" src="./assets/divider-stats.svg" alt="Divisor da seção Breakout">
 
 # 🕹️ BREAKOUT DE CONTRIBUIÇÕES
 
@@ -341,7 +264,7 @@ Cada contribuição vira um bloco no jogo, atualizado automaticamente pelo GitHu
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=maxgodoydev&style=flat-square&color=7C4653&label=VISUALIZAÇÕES" alt="Contador de visualizações do perfil" />
+<img src="https://komarev.com/ghpvc/?username=maxgodoydev&style=flat&color=7C4653&label=VISUALIZAÇÕES" alt="Contador de visualizações do perfil" />
 
 <br><br>
 

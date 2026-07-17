@@ -1,0 +1,40 @@
+name: Atualizar contribuições em 3D
+
+on:
+  schedule:
+    - cron: "15 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-3d-contrib:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Gerar os SVGs 3D de contribuições
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          SVG_OUT_DIR: /tmp/3d-contrib-images
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configurar o Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Publicar os SVGs na branch 3d-contrib
+        run: |
+          git checkout --orphan 3d-contrib
+          git rm -rf .
+          mkdir -p /tmp/3d-contrib-out
+          mv /tmp/3d-contrib-images/* /tmp/3d-contrib-out/ 2>/dev/null || true
+          mv /tmp/3d-contrib-out/* .
+          git add .
+          git commit -m "chore: atualizar contribuições em 3D" || echo "Sem alterações para publicar"
+          git push --force origin 3d-contrib
