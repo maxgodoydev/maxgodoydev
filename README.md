@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img width="100%" alt="Max Godoy — Dados, Analytics & BI, Automação de Processos. Painel de dados com KPIs, gráfico de barras e gráfico de rosca" src="./assets/hero-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <img width="100%" alt="Max Godoy — Dados, Analytics & BI, Automação de Processos. Painel de dados com KPIs, gráfico de barras e gráfico de rosca" src="./assets/hero-dark.svg">
 </picture>
 
 <br>
