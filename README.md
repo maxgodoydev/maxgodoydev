@@ -152,12 +152,3 @@ Aberto a oportunidades de estágio, colaboração e projetos em tecnologia, dado
 
 <img src="https://komarev.com/ghpvc/?username=maxgodoydev&style=flat&color=7C4653&label=VISUALIZAÇÕES" alt="Contador de visualizações do perfil" />
 
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
-  <img width="100%" alt="Processos bem entendidos geram decisões melhores — mini painel com gráfico de barras e linha de tendência" src="./assets/footer-light.svg">
-</picture>
-
-</div>
