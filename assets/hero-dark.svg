@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Max Godoy — Dados, Analytics &amp; Business Intelligence</title>
+<desc id="desc">Cabeçalho de apresentação de perfil, com gráfico de pizza animado e KPIs de tecnologias de Dados, Analytics e Business Intelligence aparecendo e desaparecendo.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#2E333B"/>
+    <stop offset="1" stop-color="#23262C"/>
+  </linearGradient>
+  <style>
+    text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+    .barGrow{transform-box:fill-box;transform-origin:bottom;animation:grow 2.6s ease-in-out infinite alternate}
+    @keyframes grow{from{transform:scaleY(.55)}to{transform:scaleY(1)}}
+    .lineDraw{animation:draw 3.6s ease-in-out infinite}
+    @keyframes draw{0%{stroke-dashoffset:100}50%{stroke-dashoffset:0}100%{stroke-dashoffset:-100}}
+    .pulse{animation:pulse 2.4s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+
+    .driftFloat{transform-box:fill-box;transform-origin:center;animation:driftFloat 5.4s ease-in-out infinite}
+    @keyframes driftFloat{0%,100%{transform:translate(0,0)}25%{transform:translate(-10px,-5px)}50%{transform:translate(0,-9px)}75%{transform:translate(10px,-5px)}}
+
+    .chipFade{transform-box:fill-box;transform-origin:center;animation:chipFade 5.6s ease-in-out infinite}
+    @keyframes chipFade{0%,18%{opacity:0;transform:translateY(4px) scale(.9)}32%,64%{opacity:1;transform:translateY(0) scale(1)}82%,100%{opacity:0;transform:translateY(4px) scale(.9)}}
+
+    .lblA{animation:lblFadeA 6s ease-in-out infinite}
+    .lblB{animation:lblFadeB 6s ease-in-out infinite}
+    @keyframes lblFadeA{0%,40%{opacity:1;transform:translateY(0)}50%,90%{opacity:0;transform:translateY(-4px)}100%{opacity:1;transform:translateY(0)}}
+    @keyframes lblFadeB{0%,40%{opacity:0;transform:translateY(4px)}50%,90%{opacity:1;transform:translateY(0)}100%{opacity:0;transform:translateY(4px)}}
+
+    .pieExcel{fill:none;stroke:#8FAE7D;animation:pieExcel 7s ease-in-out infinite}
+    @keyframes pieExcel{0%,100%{stroke-dasharray:34.18 72.63;stroke-dashoffset:0;stroke:#8FAE7D}50%{stroke-dasharray:19.23 87.58;stroke-dashoffset:0;stroke:#6FA85B}}
+    .pieSql{fill:none;stroke:#8FB0CC;animation:pieSql 7s ease-in-out infinite}
+    @keyframes pieSql{0%,100%{stroke-dasharray:27.77 79.04;stroke-dashoffset:-34.18;stroke:#8FB0CC}50%{stroke-dasharray:36.32 70.49;stroke-dashoffset:-19.23;stroke:#5C8AB0}}
+    .piePowerbi{fill:none;stroke:#D9BE84;animation:piePowerbi 7s ease-in-out infinite}
+    @keyframes piePowerbi{0%,100%{stroke-dasharray:25.64 81.17;stroke-dashoffset:-61.95;stroke:#D9BE84}50%{stroke-dasharray:21.36 85.45;stroke-dashoffset:-55.55;stroke:#C7A24A}}
+    .piePython{fill:none;stroke:#9B8AC4;animation:piePython 7s ease-in-out infinite}
+    @keyframes piePython{0%,100%{stroke-dasharray:19.23 87.58;stroke-dashoffset:-87.59;stroke:#9B8AC4}50%{stroke-dasharray:29.91 76.90;stroke-dashoffset:-76.91;stroke:#7C68A8}}
+
+    .pctA{animation:pctFadeA 7s ease-in-out infinite}
+    .pctB{animation:pctFadeB 7s ease-in-out infinite}
+    @keyframes pctFadeA{0%,100%{opacity:1}45%,55%{opacity:0}}
+    @keyframes pctFadeB{0%,100%{opacity:0}45%,55%{opacity:1}}
+  </style>
+</defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="1279" height="359" rx="23.5" fill="none" stroke="#3B4048"/>
+
+<text x="60" y="46" fill="#8A8578" font-size="13" font-weight="700" letter-spacing="2.4">PORTFÓLIO PROFISSIONAL</text>
+
+<text x="60" y="116" fill="#F1ECE2" font-size="56" font-weight="800" letter-spacing="-1">Max <tspan fill="#8FB0CC" font-weight="700">Godoy</tspan></text>
+
+<text x="60" y="153" fill="#F1ECE2" font-size="19" font-weight="700" letter-spacing="0.2">DADOS, ANALYTICS &amp; BUSINESS INTELLIGENCE</text>
+<text x="60" y="177" fill="#A9A398" font-size="14.5">Excel · SQL · Power BI</text>
+
+<text x="60" y="212" fill="#A9A398" font-size="15.5">Estudante de DSM (FATEC) em transição de carreira para Dados,</text>
+<text x="60" y="236" fill="#A9A398" font-size="15.5">Analytics &amp; Business Intelligence.</text>
+
+<text x="60" y="272" fill="#8A8578" font-size="11.5" font-weight="700" letter-spacing="1.4">EM BUSCA DE ESTÁGIO</text>
+<rect x="60" y="284" width="150" height="34" rx="17" fill="#33383F" stroke="#3B4048"/>
+<text x="135" y="306" text-anchor="middle" fill="#F1ECE2" font-size="13" font-weight="700">DADOS &amp; ANALYTICS</text>
+
+<rect x="700" y="56" width="520" height="172" rx="16" fill="#292D34" stroke="#3B4048"/>
+<circle cx="724" cy="80" r="4" fill="#D9BE84" class="pulse"/>
+<text x="740" y="85" fill="#8A8578" font-size="10.5" font-weight="800" letter-spacing="1.2">GRÁFICOS EM DESTAQUE</text>
+
+<text x="1162" y="68" text-anchor="middle" class="pctA" fill="#D9BE84" font-size="12" font-weight="800">68%</text>
+<text x="1162" y="68" text-anchor="middle" class="pctB" fill="#D9BE84" font-size="12" font-weight="800">84%</text>
+
+<g transform="rotate(-90 1162 112)">
+  <circle class="pieExcel" cx="1162" cy="112" r="17" stroke-width="34" stroke-dasharray="34.18 72.63" stroke-dashoffset="0"/>
+  <circle class="pieSql" cx="1162" cy="112" r="17" stroke-width="34" stroke-dasharray="27.77 79.04" stroke-dashoffset="-34.18"/>
+  <circle class="piePowerbi" cx="1162" cy="112" r="17" stroke-width="34" stroke-dasharray="25.64 81.17" stroke-dashoffset="-61.95"/>
+  <circle class="piePython" cx="1162" cy="112" r="17" stroke-width="34" stroke-dasharray="19.23 87.58" stroke-dashoffset="-87.59"/>
+</g>
+<circle cx="1162" cy="112" r="34" fill="none" stroke="#3B4048" stroke-width="1.5"/>
+
+<rect class="barGrow" style="animation-delay:0.00s" x="734" y="176" width="16" height="26" rx="3" fill="#8FAE7D" opacity="0.85"/><rect class="barGrow" style="animation-delay:0.15s" x="764" y="160" width="16" height="42" rx="3" fill="#8FAE7D" opacity="0.85"/><rect class="barGrow" style="animation-delay:0.30s" x="794" y="168" width="16" height="34" rx="3" fill="#8FAE7D" opacity="0.85"/><rect class="barGrow" style="animation-delay:0.45s" x="824" y="146" width="16" height="56" rx="3" fill="#8FAE7D" opacity="0.85"/><rect class="barGrow" style="animation-delay:0.60s" x="854" y="156" width="16" height="46" rx="3" fill="#8FAE7D" opacity="0.85"/><rect class="barGrow" style="animation-delay:0.75s" x="884" y="138" width="16" height="64" rx="3" fill="#8FAE7D" opacity="0.85"/>
+<path class="lineDraw" d="M734 184 L794 164 L854 176 L914 150 L974 162 L1034 142" fill="none" stroke="#D9BE84" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" pathLength="100" stroke-dasharray="100" />
+<line x1="728" y1="202" x2="1034" y2="202" stroke="#3B4048" stroke-width="1.5"/>
+
+    <g class="driftFloat" style="animation-delay:0s">
+      <rect x="726" y="229" width="112" height="18" rx="9" class="chipFade" style="animation-delay:0.3s" fill="#33383F" stroke="#3B4048"/>
+      <text x="782" y="241.5" text-anchor="middle" class="chipFade" style="animation-delay:0.3s" fill="#D9BE84" font-size="8.5" font-weight="700" letter-spacing="0.3">POWER QUERY</text>
+
+      <rect x="700" y="248" width="164" height="54" rx="12" fill="#292D34" stroke="#3B4048"/>
+      
+        <rect x="713" y="262" width="26" height="26" rx="5" fill="none" stroke="#8FAE7D" stroke-width="2.2"/>
+        <line x1="713" y1="275" x2="739" y2="275" stroke="#8FAE7D" stroke-width="2.2"/>
+        <line x1="726" y1="262" x2="726" y2="288" stroke="#8FAE7D" stroke-width="2.2"/>
+      <text x="748" y="280" class="lblA" style="animation-delay:0s" fill="#F1ECE2" font-size="13.5" font-weight="700" letter-spacing="0.4">EXCEL</text>
+      <text x="748" y="280" class="lblB" style="animation-delay:0s" fill="#F1ECE2" font-size="13.5" font-weight="700" letter-spacing="0.4">VBA</text>
+    </g>
+
+    <g class="driftFloat" style="animation-delay:0.9s">
+      <rect x="892" y="229" width="136" height="18" rx="9" class="chipFade" style="animation-delay:1.0s" fill="#33383F" stroke="#3B4048"/>
+      <text x="960" y="241.5" text-anchor="middle" class="chipFade" style="animation-delay:1.0s" fill="#8FB0CC" font-size="8.5" font-weight="700" letter-spacing="0.3">BANCO DE DADOS</text>
+
+      <rect x="878" y="248" width="164" height="54" rx="12" fill="#292D34" stroke="#3B4048"/>
+      
+        <ellipse cx="904" cy="265" rx="13" ry="5" fill="none" stroke="#8FB0CC" stroke-width="2.2"/>
+        <path d="M891 265 v16 a13 5 0 0 0 26 0 v-16" fill="none" stroke="#8FB0CC" stroke-width="2.2"/>
+        <path d="M891 273 a13 5 0 0 0 26 0" fill="none" stroke="#8FB0CC" stroke-width="2" opacity="0.7"/>
+      <text x="926" y="280" class="lblA" style="animation-delay:0.9s" fill="#F1ECE2" font-size="13.5" font-weight="700" letter-spacing="0.4">SQL</text>
+      <text x="926" y="280" class="lblB" style="animation-delay:0.9s" fill="#F1ECE2" font-size="13.5" font-weight="700" letter-spacing="0.4">ETL</text>
+    </g>
+
+    <g class="driftFloat" style="animation-delay:1.8s">
+      <rect x="1088" y="229" width="100" height="18" rx="9" class="chipFade" style="animation-delay:1.9s" fill="#33383F" stroke="#3B4048"/>
+      <text x="1138" y="241.5" text-anchor="middle" class="chipFade" style="animation-delay:1.9s" fill="#D9BE84" font-size="8.5" font-weight="700" letter-spacing="0.3">DASHBOARDS</text>
+
+      <rect x="1056" y="248" width="164" height="54" rx="12" fill="#292D34" stroke="#3B4048"/>
+      
+        <rect x="1069" y="277" width="7" height="12" rx="2" fill="#D9BE84"/>
+        <rect x="1079" y="269" width="7" height="20" rx="2" fill="#D9BE84"/>
+        <rect x="1089" y="262" width="7" height="27" rx="2" fill="#D9BE84"/>
+      <text x="1104" y="280" class="lblA" style="animation-delay:1.8s" fill="#F1ECE2" font-size="13.5" font-weight="700" letter-spacing="0.4">POWER BI</text>
+      <text x="1104" y="280" class="lblB" style="animation-delay:1.8s" fill="#F1ECE2" font-size="13.5" font-weight="700" letter-spacing="0.4">DAX</text>
+    </g>
+
+</svg>

@@ -1,0 +1,162 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img width="100%" alt="Max Godoy — Business Intelligence, Excel, SQL e Power BI" src="./assets/hero-light.svg">
+</picture>
+
+<br>
+
+<img width="100%" src="./assets/divider-about.svg" alt="Divisor da seção Sobre">
+
+<br>
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td align="center" width="33%" valign="top">
+
+### ⏳ Experiência
+
++12 anos em contratos, prazos, análise de risco e regras de negócio em ambiente jurídico-societário — base direta para a lógica de validação de dados e Business Intelligence.
+
+</td>
+
+<td align="center" width="34%" valign="top">
+
+### 🎓 Formação
+
+**Desenvolvimento de Software Multiplataforma**
+[FATEC — Zona Sul](https://fateczonasul.edu.br/)
+
+<br>
+
+<img src="https://img.shields.io/badge/Semestre%20atual-4º-2B2D2A?style=flat-square&labelColor=F1ECE2&color=6F7B83" alt="Semestre atual" />
+<img src="https://img.shields.io/badge/Conclusão%20prevista-12%2F2027-2B2D2A?style=flat-square&labelColor=F1ECE2&color=7C4653" alt="Conclusão prevista" />
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+### 🎯 Objetivo
+
+Estágio em **Dados & Analytics** — Business Intelligence, Excel, SQL e Power BI
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## 🧩 Stack Principal
+
+<div align="center">
+
+![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-2B2D2A?style=flat-square&labelColor=F1ECE2&color=7C4653)
+[![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+[![SQL](https://img.shields.io/badge/-SQL-6F7B83?style=flat&logo=mysql&logoColor=white)](https://www.w3schools.com/sql/)
+[![Power BI](https://img.shields.io/badge/-Power%20BI-C7A24A?style=flat&logo=powerbi&logoColor=111111)](https://powerbi.microsoft.com/)
+
+<br>
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-C7A24A?style=flat&logo=javascript&logoColor=111111)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/-HTML5-B35C3D?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-6F7B83?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-61745B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Git](https://img.shields.io/badge/-Git-171B18?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+
+</div>
+
+<br>
+
+<img width="100%" src="./assets/divider-projects.svg" alt="Divisor da seção Projetos">
+
+## 🏆 Projetos & Portfólios em Destaque
+
+<div align="center">
+
+| Projeto | Modelo de Negócio | Stack | Links |
+|:-:|:-:|:-:|:-:|
+| [**📊 Power BI Portfolio**](https://github.com/maxgodoydev/Portfolio_Power_BI)  | Portfólio de Dados, Analytics e Business Intelligence | [![Power BI](https://img.shields.io/badge/-Power%20BI-C7A24A?style=flat&logo=powerbi&logoColor=111111)](https://powerbi.microsoft.com/) [![DAX](https://img.shields.io/badge/-DAX-7C4653?style=flat)](https://learn.microsoft.com/dax/) [![Power Query](https://img.shields.io/badge/-Power%20Query-7D8B72?style=flat)](https://learn.microsoft.com/power-query/) [![SQL](https://img.shields.io/badge/-SQL-6F7B83?style=flat&logo=mysql&logoColor=white)](https://www.w3schools.com/sql/) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Portfolio_Power_BI) |
+| [**🐍 Python**](https://github.com/maxgodoydev/Python) | Repositório de estudos — lógica de programação, análise de dados e estatística | [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![SQL](https://img.shields.io/badge/-SQL-6F7B83?style=flat&logo=mysql&logoColor=white)](https://www.w3schools.com/sql/) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Python) |
+| [**🦁 Studio Patty Leão**](https://github.com/maxgodoydev/Studio_Patty_Leao)  | ERP monolítico com camada de indicadores de negócio — gestão, vitrine digital, agendamentos e institucional | [![Node.js](https://img.shields.io/badge/-Node.js-566246?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/-Express-272B28?style=flat&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/-MongoDB-61745B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![EJS](https://img.shields.io/badge/-EJS-8A6D3B?style=flat&logo=ejs&logoColor=white)](https://ejs.co/) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Studio_Patty_Leao) [![Online](https://img.shields.io/badge/-Online-708076?style=flat&logo=render&logoColor=white)](https://studio-patty-leao.onrender.com) |
+| [ **🎀 EntreLaços** ](https://github.com/maxgodoydev/Entrelacos) | Vitrine digital de produtos | [![HTML5](https://img.shields.io/badge/-HTML5-B35C3D?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/-CSS3-6F7B83?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/-JavaScript-C7A24A?style=flat&logo=javascript&logoColor=111111)](https://developer.mozilla.org/docs/Web/JavaScript) [![JSON](https://img.shields.io/badge/-JSON-272B28?style=flat&logo=json&logoColor=white)](https://www.json.org/) | [![GitHub](https://img.shields.io/badge/-GitHub-171B18?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Entrelacos) [![Online](https://img.shields.io/badge/-Online-111111?style=flat&logo=vercel&logoColor=white)](https://entrelacos-vitrine.vercel.app) |
+
+</div>
+
+<br>
+
+<img width="100%" src="./assets/divider-stats.svg" alt="Divisor da seção GitHub em números">
+
+## 📊 GitHub em Números
+
+<div align="center">
+
+<img src="./profile/stats.svg?v=1" alt="Estatísticas do GitHub de maxgodoydev" height="195" />
+<img src="./profile/top-langs.svg?v=1" alt="Linguagens mais usadas" height="195" />
+
+</div>
+
+<br>
+
+<img width="100%" src="./assets/divider-contact.svg" alt="Divisor da seção Comunidade e contato">
+
+## 🔬 BASE LAB & Contato
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="55%" align="center" valign="top">
+
+### BASE LAB
+
+Comunidade fundada na FATEC para aproximar estudantes com encontros, desafios de programação e troca sobre carreira em tecnologia.
+
+<br>
+
+<a href="https://discord.gg/YrnkgMESh">
+  <img src="https://img.shields.io/badge/ENTRAR%20NO%20BASE%20LAB-6C6078?style=flat&logo=discord&logoColor=white" alt="ENTRAR NO BASE LAB" />
+</a>
+
+</td>
+<td width="45%" align="center" valign="top">
+
+### Vamos conversar?
+
+Aberto a oportunidades de estágio, colaboração e projetos em tecnologia, dados e automação.
+
+<br>
+
+<a href="https://max-godoy-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFÓLIO-171B18?style=flat&logo=vercel&logoColor=F1ECE2" alt="PORTFÓLIO" />
+</a>
+<br>
+<a href="https://www.linkedin.com/in/max-godoy/">
+  <img src="https://img.shields.io/badge/LINKEDIN-44515C?style=flat&logo=linkedin&logoColor=white" alt="LINKEDIN" />
+</a>
+<br>
+<a href="mailto:maxgodoy.dev@gmail.com">
+  <img src="https://img.shields.io/badge/E--MAIL-7C4653?style=flat&logo=gmail&logoColor=white" alt="E-mail" />
+</a>
+<br>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=maxgodoydev&style=flat&color=7C4653&label=VISUALIZAÇÕES" alt="Contador de visualizações do perfil" />
+
