@@ -43,7 +43,7 @@
 
 ### 🎯 Objetivo
 
-Estágio em **Dados, Analytics & Business Intelligence**
+Estágio em **Dados & Analytics | Business Intelligence**
 
 </td>
 
