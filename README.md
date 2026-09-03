@@ -43,7 +43,7 @@
 
 ### 🎯 Objetivo
 
-Estágio em **Dados & Analytics** — Business Intelligence, Excel, SQL e Power BI
+Estágio em **Dados & Analytics** — Business Intelligence
 
 </td>
 
