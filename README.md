@@ -1,7 +1,6 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
   <img width="100%" alt="Max Godoy — Business Intelligence, Excel, SQL e Power BI" src="./assets/hero-light.svg">
 </picture>
