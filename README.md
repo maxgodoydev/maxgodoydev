@@ -20,7 +20,7 @@
 
 ### ⏳ Experiência
 
-+12 anos em contratos, prazos, análise de risco e regras de negócio em ambiente jurídico-societário — base direta para a lógica de validação de dados e Business Intelligence.
++9 anos em contratos, prazos, análise de risco e regras de negócio em ambiente jurídico-societário — base direta para a lógica de validação de dados e Business Intelligence.
 
 </td>
 
