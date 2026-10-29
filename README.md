@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
@@ -58,7 +58,7 @@ Estágio em **Dados, Analytics ou Business Intelligence**
 | [**🏦 Banking Analytics**](https://github.com/maxgodoydev/banking-analytics) | Análises de dados no contexto bancário para explorar informações e apoiar decisões de negócio. | [![Dados](https://img.shields.io/badge/Dados-6F7B83?style=flat)](https://github.com/maxgodoydev/banking-analytics) [![Analytics](https://img.shields.io/badge/Analytics-7C4653?style=flat)](https://github.com/maxgodoydev/banking-analytics) | [![GitHub](https://img.shields.io/badge/Abrir-2B2D2A?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/banking-analytics) |
 | [**🐍 Python Data Studies**](https://github.com/maxgodoydev/python-data-studies) | Repositório de estudos de programação, lógica, análise de dados e estatística. | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/) | [![GitHub](https://img.shields.io/badge/Abrir-2B2D2A?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/python-data-studies) |
 | [**🦁 Studio Patty Leão**](https://github.com/maxgodoydev/Studio_Patty_Leao) | Sistema de gestão com vitrine digital, agendamentos e área institucional. | [![Node.js](https://img.shields.io/badge/Node.js-566246?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-2B2D2A?style=flat&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-61745B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![EJS](https://img.shields.io/badge/EJS-8A6D3B?style=flat&logo=ejs&logoColor=white)](https://ejs.co/) | [![GitHub](https://img.shields.io/badge/Código-2B2D2A?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Studio_Patty_Leao) [![Online](https://img.shields.io/badge/Online-61745B?style=flat&logo=render&logoColor=white)](https://studio-patty-leao.onrender.com) |
-| [**🎀 EntreLaços**](https://github.com/maxgodoydev/Entrelacos) | Aplicativo web de vitrine digital de produtos. | [![HTML5](https://img.shields.io/badge/HTML5-B35C3D?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-6F7B83?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-C7A24A?style=flat&logo=javascript&logoColor=2B2D2A)](https://developer.mozilla.org/docs/Web/JavaScript) [![JSON](https://img.shields.io/badge/JSON-2B2D2A?style=flat&logo=json&logoColor=white)](https://www.json.org/) | [![GitHub](https://img.shields.io/badge/Código-2B2D2A?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Entrelacos) [![Online](https://img.shields.io/badge/Online-61745B?style=flat&logo=vercel&logoColor=white)](https://entrelacos-vitrine.vercel.app) |
+| [**🎀 EntreLaços**](https://github.com/maxgodoydev/Entrelacos) | Vitrine digital de presentes com pedido pelo WhatsApp e pipeline em Python que valida o catálogo e analisa o funil de intenção. | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![HTML5](https://img.shields.io/badge/HTML5-B35C3D?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-6F7B83?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-C7A24A?style=flat&logo=javascript&logoColor=2B2D2A)](https://developer.mozilla.org/docs/Web/JavaScript) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2B2D2A?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions) | [![GitHub](https://img.shields.io/badge/Código-2B2D2A?style=flat&logo=github&logoColor=white)](https://github.com/maxgodoydev/Entrelacos) [![Online](https://img.shields.io/badge/Online-61745B?style=flat&logo=vercel&logoColor=white)](https://entrelacos-vitrine.vercel.app) |
 
 </div>
 
@@ -71,16 +71,7 @@ Estágio em **Dados, Analytics ou Business Intelligence**
 <div align="center">
 
 <a href="https://github.com/maxgodoydev">
-  <img width="380" height="160" src="https://github-readme-stats.vercel.app/api?username=maxgodoydev&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=7C4653&text_color=2B2D2A&icon_color=7D8B72&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub">
-</a>
-<a href="https://github.com/maxgodoydev">
-  <img width="320" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxgodoydev&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=7C4653&text_color=2B2D2A&langs_count=6" alt="Linguagens mais utilizadas">
-</a>
-
-<br>
-
-<a href="https://github.com/maxgodoydev">
-  <img width="380" height="110" src="https://streak-stats.demolab.com?user=maxgodoydev&hide_border=true&background=FFFFFF&ring=7C4653&fire=C7A24A&currStreakLabel=7C4653&sideLabels=2B2D2A&currStreakNum=7C4653&sideNums=2B2D2A&dates=6F7B83" alt="Sequência de contribuições">
+  <img width="100%" src="./assets/github-insights.svg" alt="GitHub Insights de Max Godoy: contribuições, linguagens, streak e atividade">
 </a>
 
 </div>
@@ -120,5 +111,3 @@ Aberto a oportunidades de estágio, colaboração e sistemas nas áreas de tecno
 <img src="https://komarev.com/ghpvc/?username=maxgodoydev&style=flat&color=7C4653&label=VISUALIZAÇÕES" alt="Contador de visualizações do perfil">
 
 </div>
-
-
