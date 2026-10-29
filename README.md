@@ -120,3 +120,5 @@ Aberto a oportunidades de estágio, colaboração e sistemas nas áreas de tecno
 <img src="https://komarev.com/ghpvc/?username=maxgodoydev&style=flat&color=7C4653&label=VISUALIZAÇÕES" alt="Contador de visualizações do perfil">
 
 </div>
+
+
