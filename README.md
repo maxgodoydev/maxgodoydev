@@ -39,7 +39,7 @@ Tenho 9 anos de experiência em Legalização Empresarial, atuando com processos
 
 ### 🎯 Objetivo
 
-Estágio em *Data Analytics | Business Intelligence | Engenharia de Dados **
+Estágio em **Data Analytics | Business Intelligence | Engenharia de Dados**
 
 </td>
 </tr>
