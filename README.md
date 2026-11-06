@@ -31,6 +31,7 @@ Tenho 9 anos de experiência em Legalização Empresarial, atuando com processos
 <br>
 
 <img src="https://img.shields.io/badge/Semestre_atual-4º-6F7B83?style=flat-square&labelColor=2B2D2A" alt="Semestre atual">
+<br>
 <img src="https://img.shields.io/badge/Conclusão-12%2F2027-7C4653?style=flat-square&labelColor=2B2D2A" alt="Conclusão prevista">
 
 </td>
