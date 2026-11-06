@@ -17,7 +17,7 @@
 
 ### ⏳ Experiência
 
-Tenho quase 9 anos de experiência em Legalização Empresarial, atuando com processos, regras de negócio, análise, validação e cruzamento de dados, controles e indicadores.
+Tenho 9 anos de experiência em Legalização Empresarial, atuando com processos, regras de negócio, análise, validação e cruzamento de dados, controles e indicadores.
 
 </td>
 <td align="center" width="34%" valign="top">
