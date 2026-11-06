@@ -17,7 +17,7 @@
 
 ### ⏳ Experiência
 
-Quase 9 anos em Legalização Empresarial, trabalhando com processos, regras de negócio, prazos e análise de riscos. Experiência que levo para a tecnologia junto com uma nova formação técnica.
+Tenho quase 9 anos de experiência em Legalização Empresarial, atuando com processos, regras de negócio, análise, validação e cruzamento de dados, controles e indicadores.
 
 </td>
 <td align="center" width="34%" valign="top">
@@ -38,7 +38,7 @@ Quase 9 anos em Legalização Empresarial, trabalhando com processos, regras de 
 
 ### 🎯 Objetivo
 
-Estágio em **Dados, Analytics ou Business Intelligence**
+Estágio em *Data Analytics | Business Intelligence | Engenharia de Dados **
 
 </td>
 </tr>
