@@ -35,7 +35,6 @@
 
 <img src="./assets/badges/badge-semestre.svg" alt="Semestre atual: 4º">
 <br>
-<br>
 <img src="./assets/badges/badge-conclusao.svg" alt="Conclusão prevista: 12/2028">
 
 </td>
