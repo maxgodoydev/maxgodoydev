@@ -42,7 +42,7 @@
 
 ### 🎯 Objetivo
 
-Estágio em **Data Analytics | Business Intelligence | Engenharia de Dados**
+Estágio em **Data & Analytics | Business Intelligence | Engenharia de Dados**
 
 <br>
 
