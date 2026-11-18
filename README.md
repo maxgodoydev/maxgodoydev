@@ -19,7 +19,7 @@
 
 <ul>
   <li><b>Cofundador e Coordenador de Projetos</b> — <a href="https://github.com/Luck16Ash/Segunda-Vitrine">Segunda Vitrine</a>, iniciativa estudantil independente</li>
-  <li><b>Quase 9 anos em Legalização Empresarial</b>, com foco em processos, validação de dados e controles, e transição para Dados e BI</li>
+  <li><b>Quase 9 anos em Legalização Empresarial</b>, com foco em processos, validação de dados e controles</li>
 </ul>
 
 </td>
