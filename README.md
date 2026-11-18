@@ -1,5 +1,5 @@
 <div align="center">
- 
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg?v=2">
   <img width="100%" alt="Max Godoy — Dados, Analytics e Business Intelligence" src="./assets/hero-light.svg?v=2">
@@ -19,8 +19,7 @@
 
 <ul>
   <li><b>Cofundador e Coordenador de Projetos</b> — <a href="https://github.com/Luck16Ash/Segunda-Vitrine">Segunda Vitrine</a>, iniciativa estudantil independente</li>
-  <li><b>9 anos em Legalização Empresarial</b>, com foco em processos, validação de dados e controles</li>
-  <li><b>Transição de carreira</b> para Dados, Analytics e Business Intelligence</li>
+  <li><b>Quase 9 anos em Legalização Empresarial</b>, com foco em processos, validação de dados e controles, e transição para Dados e BI</li>
 </ul>
 
 </td>
@@ -86,8 +85,8 @@ Estágio em **Data Analytics | Business Intelligence | Engenharia de Dados**
 
 <tr>
 <td valign="middle"><a href="https://github.com/maxgodoydev/Business-Intelligence-portfolio"><b>📊 Business Intelligence Portfolio</b></a></td>
-<td valign="middle" nowrap><b>📊 Portfólio de Business Intelligence</b></td>
-<td valign="middle">Coleção de análises e dashboards que demonstram o ciclo completo de BI: tratamento dos dados, modelagem e visualização.</td>
+<td valign="middle" nowrap><b>📊 Portfólio de BI</b></td>
+<td valign="middle">Dashboards e análises que percorrem o ciclo de BI, do tratamento à visualização dos dados.</td>
 <td valign="middle">
 <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-D1A038?style=flat&logo=powerbi&logoColor=2B2D2A" alt="Power BI"></a>
 <a href="https://learn.microsoft.com/dax/"><img src="https://img.shields.io/badge/DAX-6B4A7A?style=flat" alt="DAX"></a>
@@ -102,7 +101,7 @@ Estágio em **Data Analytics | Business Intelligence | Engenharia de Dados**
 <tr>
 <td valign="middle"><a href="https://github.com/maxgodoydev/Banking-analytics"><b>🏦 Banking Analytics</b></a></td>
 <td valign="middle" nowrap><b>📈 Análise de dados</b></td>
-<td valign="middle">Análise de transações bancárias fictícias (dados sintéticos) que responde a cinco perguntas de negócio com SQL (CTEs e funções de janela), gráficos e testes automatizados.</td>
+<td valign="middle">Análise de transações bancárias fictícias que responde a cinco perguntas de negócio, com SQL analítico, gráficos e testes automatizados.</td>
 <td valign="middle">
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></a>
 <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-4B5A8C?style=flat&logo=sqlite&logoColor=white" alt="SQLite"></a>
@@ -118,7 +117,7 @@ Estágio em **Data Analytics | Business Intelligence | Engenharia de Dados**
 <tr>
 <td valign="middle"><a href="https://github.com/maxgodoydev/python-lab"><b>🐍 Python Lab</b></a></td>
 <td valign="middle" nowrap><b>📚 Repositório educacional</b></td>
-<td valign="middle">Repositório educacional em construção, com exercícios resolvidos e comentados passo a passo, em duas trilhas: fundamentos de Python e Python aplicado a dados (Analytics, BI e Engenharia de Dados).</td>
+<td valign="middle">Em construção: exercícios resolvidos e comentados em duas trilhas, fundamentos de Python e Python aplicado a dados.</td>
 <td valign="middle">
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></a>
 </td>
@@ -130,7 +129,7 @@ Estágio em **Data Analytics | Business Intelligence | Engenharia de Dados**
 <tr>
 <td valign="middle"><a href="https://github.com/maxgodoydev/Studio_Patty_Leao"><b>🦁 Studio Patty Leão</b></a></td>
 <td valign="middle" nowrap><b>🖥️ Mini ERP web</b></td>
-<td valign="middle">ERP simples para salão de beleza que conecta agendamento, atendimento, estoque, financeiro manual e BI: ao concluir um atendimento, os insumos saem do estoque e os dados alimentam os indicadores. Inclui vitrine de reservas presenciais e site institucional.</td>
+<td valign="middle">Sistema para salão de beleza que integra agenda, atendimento, estoque, financeiro manual e indicadores: ao concluir um atendimento, os insumos saem do estoque e os dados alimentam o BI.</td>
 <td valign="middle">
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-7F8F4F?style=flat&logo=node.js&logoColor=white" alt="Node.js"></a>
 <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-2B2D2A?style=flat&logo=express&logoColor=white" alt="Express"></a>
@@ -147,7 +146,7 @@ Estágio em **Data Analytics | Business Intelligence | Engenharia de Dados**
 <tr>
 <td valign="middle"><a href="https://github.com/maxgodoydev/Entrelacos"><b>🎀 EntreLaços</b></a></td>
 <td valign="middle" nowrap><b>🌐 Vitrine digital</b></td>
-<td valign="middle">Vitrine digital de presentes com filtros por categoria, detalhes de cada kit e pedido direto pelo WhatsApp.</td>
+<td valign="middle">Catálogo de presentes e kits com filtro por categoria e pedido direto pelo WhatsApp.</td>
 <td valign="middle">
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-C07A4A?style=flat&logo=html5&logoColor=white" alt="HTML5"></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-4B5A8C?style=flat&logo=css3&logoColor=white" alt="CSS3"></a>
@@ -163,7 +162,7 @@ Estágio em **Data Analytics | Business Intelligence | Engenharia de Dados**
 <tr>
 <td valign="middle"><a href="https://github.com/maxgodoydev/BarberShop-Do-Gui"><b>💈 BarberShop do Gui</b></a></td>
 <td valign="middle" nowrap><b>💻 Aplicação web</b></td>
-<td valign="middle">Sistema web para uma barbearia de bairro real, desenvolvido em grupo: o cliente agenda sem criar conta e a equipe acompanha agenda, estoque e indicadores. Minha frente: dados, Analytics e BI, com pipeline Python/Pandas, SQL analítico e medidas DAX.</td>
+<td valign="middle">Sistema para uma barbearia real, feito em grupo: o cliente agenda sem criar conta e a equipe acompanha agenda, estoque e indicadores. Minha atuação: dados, Analytics e BI (pipeline, SQL e DAX).</td>
 <td valign="middle">
 <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-C07A4A?style=flat&logo=openjdk&logoColor=white" alt="Java"></a>
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring_Boot-7F8F4F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"></a>
@@ -179,7 +178,7 @@ Estágio em **Data Analytics | Business Intelligence | Engenharia de Dados**
 <tr>
 <td valign="middle"><a href="https://github.com/maxgodoydev/InteliBolsas"><b>🎓 InteliBolsas</b></a></td>
 <td valign="middle" nowrap><b>💻 Aplicação web (CRUD)</b></td>
-<td valign="middle">Plataforma CRUD para divulgação de bolsas de estudo e cursos, com áreas para aluno, instituição e administração. Projeto do 2º semestre, executado localmente.</td>
+<td valign="middle">Divulgação de bolsas de estudo e cursos, com áreas para aluno, instituição e administração. Projeto do 2º semestre, executado localmente.</td>
 <td valign="middle">
 <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-6B4A7A?style=flat&logo=php&logoColor=white" alt="PHP"></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-3F7C85?style=flat&logo=mysql&logoColor=white" alt="MySQL"></a>
@@ -192,7 +191,7 @@ Estágio em **Data Analytics | Business Intelligence | Engenharia de Dados**
 <tr>
 <td valign="middle"><a href="https://github.com/Luck16Ash/Segunda-Vitrine"><b>🛍️ Segunda Vitrine</b></a></td>
 <td valign="middle" nowrap><b>🌐 Vitrine digital</b></td>
-<td valign="middle">Iniciativa independente de estudantes de Desenvolvimento de Software Multiplataforma da FATEC Zona Sul que dá visibilidade a projetos e contribuições individuais e aproxima os alunos do mercado.</td>
+<td valign="middle">Iniciativa independente de estudantes de DSM da FATEC Zona Sul que dá visibilidade a projetos acadêmicos e às contribuições individuais de cada aluno.</td>
 <td valign="middle">
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-C07A4A?style=flat&logo=html5&logoColor=white" alt="HTML5"></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-4B5A8C?style=flat&logo=css3&logoColor=white" alt="CSS3"></a>
@@ -245,5 +244,7 @@ Aberto a oportunidades de estágio, colaborações e projetos em tecnologia, dad
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=maxgodoydev&style=flat&color=7C4653&label=VISUALIZAÇÕES" alt="Contador de visualizações do perfil">
+
+</div>
 
 </div>
