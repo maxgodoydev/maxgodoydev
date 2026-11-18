@@ -2,7 +2,7 @@
  
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg?v=2">
-  <img width="100%" alt="Max Godoy — Dados, Analytics e Business Intelligence" src="./assets/hero-dark.svg?v=2">
+  <img width="100%" alt="Max Godoy — Dados, Analytics e Business Intelligence" src="./assets/hero-light.svg?v=2">
 </picture>
 
 <br>
