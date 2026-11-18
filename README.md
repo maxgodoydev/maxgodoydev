@@ -15,11 +15,11 @@
 <tr>
 <td width="33%" valign="top">
 
-<h3 align="center">⏳ Experiência</h3>
+<h3 align="center">🧭 Trajetória</h3>
 
 <ul>
-  <li><b>Cofundador e Coordenador de Projetos</b> — <a href="https://github.com/Luck16Ash/Segunda-Vitrine">Segunda Vitrine</a>, iniciativa estudantil independente</li>
-  <li><b>Quase 9 anos em Legalização Empresarial</b>, com foco em processos, validação de dados e controles</li>
+  <li><b>Quase 9 anos em Legalização Empresarial</b>: processos, validação de dados e controles</li>
+  <li><b>Cofundador e Coordenador de Projetos</b> — <a href="https://github.com/Luck16Ash/Segunda-Vitrine">Segunda Vitrine</a></li>
 </ul>
 
 </td>
@@ -53,10 +53,6 @@ Estágio em **Data Analytics | Business Intelligence | Engenharia de Dados**
 <img src="https://img.shields.io/badge/SQL-4F5FA3?style=flat&logo=mysql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/Excel-6F8A5E?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel">
 <img src="https://img.shields.io/badge/Python-2F7F86?style=flat&logo=python&logoColor=white" alt="Python">
-
-<br>
-
-🌎 Inglês intermediário (B1)
 
 </td>
 </tr>
